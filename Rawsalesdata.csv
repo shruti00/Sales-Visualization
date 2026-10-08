@@ -1,0 +1,1201 @@
+Transaction_ID,Date,Region,Category,Units_Sold,Unit_Price,Total_Amount,Customer_Email,Payment_Method
+TXN-1000,2023-07-13,South ,Office Supplies,5,387.29,1936.45,user_0@company.com,cc
+TXN-1001,18-Nov-2023, north,Office-Supplies,4,60.94,243.76,user_1@company.com,CREDIT CARD
+TXN-1002,2023-12-27,West,Office Supplies,4,481.56,1926.24,user_2@company.com,
+TXN-1003,,EAST ,electronics,5,446.21,2231.05,user_3@company.com,PayPal
+TXN-1004,2023-05-29,NORTH,Elec.,5 pcs,142.47,712.35,user_4@company.com,Credit Card
+TXN-1005,2023/02/21 00:00,East,Office-Supplies,3,413.15,1239.45,user_5@company.com,Paypal
+TXN-1006,22-Nov-2023,EAST ,Furniture ,5,263.98,1319.9,user_6@company.com,Paypal
+TXN-1007,07/01/2023,East,Furniture ,4,236.29,945.16,user_7@company.com,Paypal
+TXN-1008,2023-12-26,NORTH,Office-Supplies,6,164.07,984.42,user_8@company.com,Debit
+TXN-1009,03/29/2023, West,Office Supplies,7,294.67,2062.69,user_9@company.com,Debit
+TXN-1010,14-Jul-2023,North,Furniture ,2,367.65,,user_10@company.com,cc
+TXN-1011,11/24/2023,South ,Office-Supplies,5,211.36,,user_11@company.com,
+TXN-1012,01/29/2023, West,Furniture,5,318.32,1645.25,user_12@company.com,Credit Card
+TXN-1013,2023/06/11 00:00, West,Office-Supplies,6,352.66,,invalid_email_at_gmail.com,Cash
+TXN-1014,19-Apr-2023,South ,OFFICE SUPPLIES,4,358.45,1433.8,user_14@company.com,cc
+TXN-1015,2023/09/13 00:00,South,Elec.,6,35.46,212.76,user_15@company.com,Paypal
+TXN-1016,2023/11/26 00:00,South ,Office Supplies,6,431.28,2587.68,invalid_email_at_gmail.com,Debit
+TXN-1017,03/13/2023,,OFFICE SUPPLIES,1,234.54,234.54,user_17@company.com,cc
+TXN-1018,03-Oct-2023,North,Furniture ,7,138.58,970.06,user_18@company.com,Debit
+TXN-1019,2023/08/08 00:00,NORTH,Furniture ,2,128.46,623.43,user_19@company.com,cc
+TXN-1020,2023/03/12 00:00, north,Office Supplies,11,246.68,2713.48,user_20@company.com,Debit
+TXN-1021,31/11/2023, north,Office-Supplies,4,444.55,1778.2,user_21@company.com,Paypal
+TXN-1022,,East,Elec.,9999,195.39,586.17,user_22@company.com,cc
+TXN-1023,11/18/2023,West,electronics,8,377.37,3018.96,user_23@company.com,
+TXN-1024,2023-08-05,EAST ,Furniture,3,57.44,172.32,user_24@company.com,Paypal
+TXN-1025,2023/11/02 00:00,,OFFICE SUPPLIES,3,243.27,729.81,user_25@company.com,Debit
+TXN-1026,2023-10-11,South,Elec.,5,495.93,,invalid_email_at_gmail.com,PayPal
+TXN-1027,28-Feb-2023,West,electronics,8,387.51,3100.08,user_27@company.com,Credit Card
+TXN-1028,2023-06-24,North,Furniture,3,113.16,339.48,user_28@company.com,CASH
+TXN-1029,2023/03/22 00:00,EAST ,Office-Supplies,2,255.71,511.42,user_29@company.com,cc
+TXN-1030,,West,Office Supplies,5 pcs,124.48,622.4,user_at_company,Debit
+TXN-1031,05/15/2023,EAST ,Electronics,5 pcs,210.68,632.04,user_at_company,Paypal
+TXN-1032,24-Feb-2023,West,Elec.,8,392.24,3137.92,user_32@company.com,Debit
+TXN-1033,09/17/2023, West,Office-Supplies,10,387.9,3879,user_33@company.com,Credit Card
+TXN-1034,2023-03-24,,Electronics,3,121.77,365.31,user_34@company.com,PayPal
+TXN-1035,2023-09-08,South,electronics,2,461.89,923.78,user_35@company.com,CASH
+TXN-1036,05-Jul-2023, West,Elec.,5,300.36,1501.8,user_36@company.com,PayPal
+TXN-1037,2023-05-04,South ,OFFICE SUPPLIES,7,196.16,1373.12,user_37@company.com,Debit
+TXN-1038,31/11/2023, north,Office-Supplies,6,255.95,1535.7,user_38@company.com,CREDIT CARD
+TXN-1039,02/05/2023,EAST ,electronics,6,306.48,1838.88,user_39@company.com,Cash
+TXN-1040,09/01/2023,North,electronics,2,284.35,568.7,user_40@company.com,
+TXN-1041,2023/11/07 00:00,West,Furniture ,4,248.34,1050.43,user_at_company,Debit
+TXN-1042,10/04/2023,,Furniture,9,257.42,,user_42@company.com,
+TXN-1043,24-Jul-2023,West,Office Supplies,7,96.44,675.08,user_43@company.com,PayPal
+TXN-1044,2023/09/22 00:00,,electronics,11,408.24,4490.64,user_44@company.com,PayPal
+TXN-1045,2023-04-26,,Electronics,8,275.46,2203.68,user_45@company.com,PayPal
+TXN-1046,10/29/2023,NORTH,Office-Supplies,3,74.23,561.7,user_46@company.com,
+TXN-1047,2023-01-04, north,Office-Supplies,2,385.42,770.84,user_47@company.com,Paypal
+TXN-1048,01/31/2023, West,Furniture ,3,466.9,1400.7,user_48@company.com,Cash
+TXN-1049,2023-02-30,NORTH,Electronics,5 pcs,474.18,,user_49@company.com,PayPal
+TXN-1050,,NORTH,Elec.,5,190.82,954.1,user_50@company.com,
+TXN-1051,09/21/2023,South,OFFICE SUPPLIES,5,76.4,382,user_51@company.com,
+TXN-1052,09/06/2023,South,OFFICE SUPPLIES,4,264.02,1056.08,user_52@company.com,PayPal
+TXN-1053,2023/10/20 00:00,NORTH,Electronics,3,65.18,195.54,user_53@company.com,Debit
+TXN-1054,2023/08/31 00:00,North,Furniture,8,467.65,3741.2,,cc
+TXN-1055,2023/02/19 00:00,EAST ,Furniture ,2,99.95,199.9,user_55@company.com,CREDIT CARD
+TXN-1056,2023/07/30 00:00, north,Furniture,1,133.86,133.86,user_56@company.com,Debit
+TXN-1057,2023-01-28,EAST ,Electronics,4,209.25,837,user_57@company.com,Credit Card
+TXN-1058,2023-02-30,South,Furniture,5,197.75,988.75,user_58@company.com,Cash
+TXN-1059,02/25/2023,NORTH,Elec.,4,399.38,1597.52,user_59@company.com,
+TXN-1060,2023/10/02 00:00,,Electronics,3,-32.17,700.8,user_60@company.com,Debit
+TXN-1061,04-Apr-2023,South ,Office Supplies,4,93.68,374.72,user_61@company.com,Debit
+TXN-1062,2023/02/08 00:00,East,Furniture,8,140.93,1127.44,user_62@company.com,CREDIT CARD
+TXN-1063,2023-10-09, north,Electronics,2,259.47,518.94,user_63@company.com,CREDIT CARD
+TXN-1064,, north,Elec.,2,82.25,164.5,user_64@company.com,cc
+TXN-1065,2023-01-08,EAST ,electronics,2,309.71,,user_65@company.com,CASH
+TXN-1066,05/02/2023,West,Furniture ,7,-194.4,2010.54,user_66@company.com,PayPal
+TXN-1067,09/04/2023,EAST ,Office-Supplies,6,360.2,2161.2,user_67@company.com,cc
+TXN-1068,01/31/2023,West,Office Supplies,7,469.48,3286.36,user_68@company.com,Debit
+TXN-1069,19-Jul-2023,East,Office-Supplies,6,457,2742,user_69@company.com,Cash
+TXN-1070,21-Aug-2023,South ,Office-Supplies,7,-41.56,3315.06,user_70@company.com,
+TXN-1071,2023/10/12 00:00,West,Furniture,6,129.91,779.46,user_71@company.com,CREDIT CARD
+TXN-1072,06/01/2023, West,Electronics,4,74.47,297.88,user_72@company.com,Paypal
+TXN-1073,2023-10-24,North,electronics,2,158.12,,user_73@company.com,cc
+TXN-1074,2023-01-30,,electronics,-7,448.59,1345.77,user_74@company.com,Paypal
+TXN-1075,09/15/2023,,Furniture ,4,486.31,1945.24,user_75@company.com,Paypal
+TXN-1076,,West,Office Supplies,7,431.07,3017.49,user_76@company.com,PayPal
+TXN-1077,2023-04-06,EAST ,Office Supplies,4,63.91,255.64,,
+TXN-1078,12/12/2023, north,Furniture ,3,474.24,1873.18,user_78@company.com,PayPal
+TXN-1079,10/19/2023,EAST ,Furniture,2,217.45,697.5,user_79@company.com,Cash
+TXN-1080,2023-01-21,NORTH,Furniture,,14.56,87.36,user_80@company.com,
+TXN-1081,26-Oct-2023,NORTH,OFFICE SUPPLIES,3,226.77,680.31,user_81@company.com,Debit
+TXN-1082,15-Apr-2023,,Office-Supplies,5,32.57,,user_82@company.com,cc
+TXN-1083,07/22/2023,,Electronics,9,276.5,2488.5,user_83@company.com,PayPal
+TXN-1084,2023/06/03 00:00,,Furniture ,6,175.89,1055.34,user_84@company.com,Paypal
+TXN-1085,2023-02-07, north,Elec.,6,241.98,1656.48,invalid_email_at_gmail.com,CREDIT CARD
+TXN-1086,2023-10-16, north,Office-Supplies,9,310.45,2794.05,user_86@company.com,Cash
+TXN-1087,2023-02-30,,electronics,4,435.71,1742.84,user_87@company.com,CREDIT CARD
+TXN-1088,05/16/2023, north,electronics,9,334.33,3008.97,user_88@company.com,Paypal
+TXN-1089,02/05/2023,South ,Furniture ,2,222.68,445.36,user_89@company.com,CASH
+TXN-1090,2023/03/22 00:00,West,Office Supplies,10,411.52,4115.2,user_90@company.com,CREDIT CARD
+TXN-1091,27-Dec-2023,East,electronics,6,453.74,2722.44,user_91@company.com,CREDIT CARD
+TXN-1092,2023-12-01,EAST ,Furniture ,9,68.68,618.12,invalid_email_at_gmail.com,CREDIT CARD
+TXN-1093,11-Oct-2023,South ,Furniture ,4,270.65,,user_93@company.com,Cash
+TXN-1094,02/23/2023,EAST ,OFFICE SUPPLIES,-5,149.41,149.41,user_94@company.com,
+TXN-1095,02/24/2023, West,Office-Supplies,6,33.06,,user_95@company.com,Debit
+TXN-1096,11/06/2023,,OFFICE SUPPLIES,,337.59,2700.72,user_96@company.com,CASH
+TXN-1097,15-Apr-2023,,Furniture,6,432.76,2596.56,user_97@company.com,PayPal
+TXN-1098,2023-05-09, West,Office Supplies,2,89.82,,user_98@company.com,Paypal
+TXN-1099,31/11/2023,North,OFFICE SUPPLIES,3,408.08,1487.16,user_99@company.com,PayPal
+TXN-1100,2023-05-22,NORTH,OFFICE SUPPLIES,5,428.16,2140.8,user_100@company.com,Debit
+TXN-1101,,South ,Electronics,3,458.03,1869.75,user_101@company.com,PayPal
+TXN-1102,23-Nov-2023,EAST ,OFFICE SUPPLIES,3,139.99,419.97,user_102@company.com,Cash
+TXN-1103,2023/08/15 00:00,NORTH,electronics,5,452.94,2264.7,user_103@company.com,CREDIT CARD
+TXN-1104,2023-02-27,,Furniture ,6,167.12,,,PayPal
+TXN-1105,12/20/2023,,electronics,5,280.65,1680.77,user_105@company.com,Cash
+TXN-1106,07/09/2023,EAST ,Office-Supplies,3,34.75,104.25,user_106@company.com,Cash
+TXN-1107,22-Jan-2023,North,Furniture,5,31.5,157.5,user_107@company.com,Cash
+TXN-1108,21-Jan-2023,EAST ,Furniture,3,362.98,1088.94,user_108@company.com,Debit
+TXN-1109,2023-05-08,East,Office Supplies,3,227.8,683.4,user_109@company.com,PayPal
+TXN-1110,2023/10/14 00:00,South,Office-Supplies,6,135.58,813.48,invalid_email_at_gmail.com,CASH
+TXN-1111,03/21/2023,North,Office Supplies,5,103.3,616.7,user_111@company.com,CASH
+TXN-1112,2023/04/01 00:00, West,Electronics,6,338.28,2029.68,user_112@company.com,CASH
+TXN-1113,,South ,Furniture ,2,10.2,20.4,user_113@company.com,Credit Card
+TXN-1114,2023/06/20 00:00,East,Furniture,4,404.89,1619.56,user_114@company.com,CASH
+TXN-1115,08-May-2023,North,Furniture ,7,48.83,341.81,user_115@company.com,Credit Card
+TXN-1116,2023-12-26,East,electronics,6,103.83,622.98,user_116@company.com,CASH
+TXN-1117,2023/01/20 00:00,South ,Office-Supplies,5,-37.66,,user_117@company.com,Cash
+TXN-1118,24-Aug-2023,South ,Office Supplies,4,247.58,990.32,user_118@company.com,CREDIT CARD
+TXN-1119,04/27/2023,South ,electronics,3,183.95,551.85,user_119@company.com,Debit
+TXN-1120,, West,Elec.,,167.15,501.45,user_120@company.com,PayPal
+TXN-1121,18-Jun-2023, north,OFFICE SUPPLIES,7,482.32,,user_121@company.com,Credit Card
+TXN-1122,23-May-2023,South,Office Supplies,7,324.37,2270.59,user_122@company.com,Paypal
+TXN-1123,24-Jul-2023,NORTH,Office Supplies,6,21.48,244.16,user_123@company.com,Paypal
+TXN-1124,01-Mar-2023,South ,Furniture,6,220.79,1324.74,,PayPal
+TXN-1125,2023-05-16, West,Furniture ,7,438.75,,user_125@company.com,PayPal
+TXN-1126,11-Aug-2023,East,Elec.,8,157.71,1261.68,user_126@company.com,Cash
+TXN-1127,2023/06/10 00:00,South ,Furniture,6,56.33,337.98,user_127@company.com,Credit Card
+TXN-1128,2023-09-19,EAST ,OFFICE SUPPLIES,3,381.61,1144.83,user_128@company.com,Cash
+TXN-1129,10/23/2023,,Furniture,7,306.95,2148.65,user_129@company.com,CASH
+TXN-1130,2023/12/29 00:00, north,Furniture,5,289.45,1447.25,user_130@company.com,CASH
+TXN-1131,,South,Furniture,9999,36.25,181.25,user_131@company.com,Cash
+TXN-1132,10/03/2023, West,Furniture ,7,78.84,551.88,user_132@company.com,
+TXN-1133,05-Feb-2023,South,Furniture,4,315.05,1260.2,user_133@company.com,
+TXN-1134,2023-12-06,EAST ,Furniture,9,111.83,1006.47,,Paypal
+TXN-1135,03-Jun-2023, West,Furniture,9999,256.99,1027.96,user_135@company.com,Paypal
+TXN-1136,2023/06/17 00:00,West,Furniture,5,276.99,1384.95,user_136@company.com,
+TXN-1137,10/11/2023,East,Office Supplies,2,148.92,,user_137@company.com,Debit
+TXN-1138,2023/12/07 00:00,North,Elec.,6,474.73,2848.38,user_138@company.com,PayPal
+TXN-1139,31-Mar-2023,West,electronics,5 pcs,422.81,1268.43,user_139@company.com,cc
+TXN-1140,01-Jan-2023,NORTH,electronics,6,363.96,2183.76,user_140@company.com,cc
+TXN-1141,09-Aug-2023, north,electronics,2,48.22,96.44,user_141@company.com,Paypal
+TXN-1142,08/15/2023,South ,OFFICE SUPPLIES,3,62,186,user_142@company.com,CREDIT CARD
+TXN-1143,2023-03-28,West,Electronics,5,251.46,1257.3,user_143@company.com,Cash
+TXN-1144,06-Dec-2023,EAST ,Electronics,3,88.75,266.25,user_144@company.com,Debit
+TXN-1145,31/11/2023,NORTH,OFFICE SUPPLIES,4,489.35,1957.4,user_145@company.com,Debit
+TXN-1146,01-May-2023,West,Office Supplies,5,87.67,438.35,user_146@company.com,Credit Card
+TXN-1147,04/12/2023,,Office Supplies,6,248.86,1493.16,user_147@company.com,CASH
+TXN-1148,,North,OFFICE SUPPLIES,3,188.42,565.26,user_148@company.com,Debit
+TXN-1149,2023-09-01,NORTH,Furniture ,,323.3,1437.15,user_149@company.com,Paypal
+TXN-1150,11/19/2023,South,OFFICE SUPPLIES,4,73.23,292.92,user_150@company.com,PayPal
+TXN-1151,2023/07/16 00:00,South,Elec.,5,220.86,1104.3,user_151@company.com,CASH
+TXN-1152,2023-03-17,North,Furniture ,4,144.61,578.44,user_152@company.com,Credit Card
+TXN-1153,2023/02/24 00:00,South,Office-Supplies,2,445,890,,cc
+TXN-1077,2023/12/23 00:00,North,Furniture,6,29.89,642.31,user_154@company.com,Credit Card
+TXN-1155,, West,Elec.,6,457.73,2746.38,,Cash
+TXN-1156,2023/03/04 00:00,North,Electronics,8,418.17,3345.36,user_156@company.com,PayPal
+TXN-1157,26-Aug-2023,East,Office-Supplies,1,155.81,155.81,user_157@company.com,
+TXN-1158,2023/08/15 00:00,South,OFFICE SUPPLIES,6,396.75,2380.5,user_158@company.com,Cash
+TXN-1159,2023/10/08 00:00,South ,Electronics,2,25.29,50.58,user_159@company.com,Debit
+TXN-1160,2023/09/01 00:00,East,Office Supplies,5,$250.00,2418.8,user_160@company.com,PayPal
+TXN-1004,07-May-2023, West,Office-Supplies,2,268.03,536.06,user_161@company.com,cc
+TXN-1162,2023/09/24 00:00,West,Elec.,6,158.61,1296.11,user_162@company.com,Debit
+TXN-1163,2023/05/21 00:00,EAST ,OFFICE SUPPLIES,4,$250.00,750.68,user_163@company.com,CREDIT CARD
+TXN-1164,2023-02-30, north,electronics,3,42.54,127.62,user_164@company.com,cc
+TXN-1165,20-May-2023,North,OFFICE SUPPLIES,5,494.78,2473.9,user_165@company.com,Cash
+TXN-1166,2023-10-04,South,Office Supplies,6,29.25,175.5,user_166@company.com,CASH
+TXN-1167,2023/04/29 00:00,East,Electronics,3,330.9,992.7,user_167@company.com,CREDIT CARD
+TXN-1168,12/28/2023, West,Electronics,4,226.94,907.76,user_168@company.com,CREDIT CARD
+TXN-1169,2023-02-30,,Furniture,8,474.97,3799.76,invalid_email_at_gmail.com,PayPal
+TXN-1170,2023/10/05 00:00, West,Office-Supplies,4,130.54,522.16,user_170@company.com,Paypal
+TXN-1171,2023/04/16 00:00,NORTH,electronics,10,270.72,2707.2,user_171@company.com,
+TXN-1172,2023-10-27, West,Office Supplies,4,246.35,985.4,user_172@company.com,cc
+TXN-1173,2023/10/22 00:00,,Office Supplies,5,354.4,1772,user_173@company.com,Debit
+TXN-1174,30-Jun-2023,West,Furniture ,10,43.33,433.3,invalid_email_at_gmail.com,Paypal
+TXN-1175,08/03/2023,East,Elec.,3,104.96,408.84,user_175@company.com,Cash
+TXN-1176,2023/05/20 00:00,East,Furniture ,4,115.14,460.56,invalid_email_at_gmail.com,
+TXN-1177,19-Jul-2023,NORTH,Furniture,7,371.69,2601.83,user_177@company.com,PayPal
+TXN-1178,07/27/2023,South ,Furniture ,5,,513.4,user_178@company.com,
+TXN-1179,2023-03-07, north,OFFICE SUPPLIES,10,291.01,2910.1,user_179@company.com,
+TXN-1180,2023-10-31,South ,Office Supplies,4,115.47,461.88,user_180@company.com,PayPal
+TXN-1181,31/11/2023,North,Office Supplies,-4,432.2,955.77,user_181@company.com,Credit Card
+TXN-1182,08/25/2023,EAST ,Elec.,3,471.67,1415.01,user_182@company.com,CREDIT CARD
+TXN-1183,,North,OFFICE SUPPLIES,5,264.06,,user_183@company.com,cc
+TXN-1184,2023/04/19 00:00,NORTH,Office-Supplies,8,-93.03,1461.04,,Cash
+TXN-1185,14-Jul-2023,,Furniture,4,124.69,498.76,user_185@company.com,Cash
+TXN-1186,04-Aug-2023,South,Office-Supplies,3,34.39,103.17,user_186@company.com,Debit
+TXN-1187,2023-08-29,South,Office Supplies,8,141.57,1132.56,user_187@company.com,Paypal
+TXN-1188,27-Jan-2023,South,Office Supplies,6,330.58,1983.48,user_188@company.com,CREDIT CARD
+TXN-1189,2023-02-05,South,Office-Supplies,8,271.47,,user_189@company.com,Cash
+TXN-1190,05/07/2023,South ,Furniture ,5 pcs,472.58,1417.74,user_190@company.com,Debit
+TXN-1191,11/15/2023,EAST ,OFFICE SUPPLIES,3,204.18,612.54,user_191@company.com,Paypal
+TXN-1192,2023-08-31,West,Elec.,5,349.99,1749.95,user_192@company.com,Debit
+TXN-1193,2023/04/22 00:00,North,Elec.,11,249.77,2747.47,,Cash
+TXN-1194,07/08/2023,North,Furniture,7,261.16,1828.12,user_194@company.com,Cash
+TXN-1195,02/28/2023, West,electronics,,141.21,564.84,user_at_company,Paypal
+TXN-1196,2023-02-25,NORTH,Furniture ,3,232.93,698.79,user_196@company.com,PayPal
+TXN-1197,2023/10/22 00:00,NORTH,Furniture,8,240.68,1925.44,user_197@company.com,PayPal
+TXN-1198,2023-04-12,,Office-Supplies,8,356.25,2850,user_198@company.com,Credit Card
+TXN-1199,11/18/2023,North,Office-Supplies,3,470.91,1412.73,user_199@company.com,CREDIT CARD
+TXN-1200,2023-06-04,South,Furniture,3,171.37,514.11,user_200@company.com,cc
+TXN-1201,2023-10-17,South ,Elec.,6,30.68,184.08,user_201@company.com,CASH
+TXN-1202,08-Aug-2023,,Elec.,2,253.18,506.36,user_202@company.com,CASH
+TXN-1203,2023-02-30,South ,OFFICE SUPPLIES,7,276.79,,user_203@company.com,CASH
+TXN-1204,2023/01/07 00:00,South ,Electronics,5,92.54,462.7,user_204@company.com,Debit
+TXN-1205,2023/02/24 00:00,EAST ,Elec.,5,-187.37,1913.15,user_205@company.com,Credit Card
+TXN-1206,2023/11/22 00:00,EAST ,Office-Supplies,6,492.62,2955.72,user_206@company.com,
+TXN-1207,08/11/2023,East,OFFICE SUPPLIES,1,473.43,473.43,user_207@company.com,Credit Card
+TXN-1208,30-Nov-2023, West,Elec.,10,$250.00,1465.5,user_208@company.com,
+TXN-1209,2023/10/03 00:00,South ,Office Supplies,2,438.93,877.86,user_209@company.com,Cash
+TXN-1210,31-Oct-2023,South,OFFICE SUPPLIES,5,355.2,1776,user_210@company.com,Credit Card
+TXN-1211,2023-05-06, West,Furniture ,4,232.38,1409.54,user_211@company.com,CASH
+TXN-1212,08/19/2023,South ,Furniture ,5,274.9,1374.5,user_212@company.com,Credit Card
+TXN-1213,2023/10/19 00:00,West,Electronics,4,426.3,1705.2,user_213@company.com,
+TXN-1214,11-Sep-2023,,Office-Supplies,5,245.27,1226.35,invalid_email_at_gmail.com,Cash
+TXN-1215,19-Apr-2023,EAST ,electronics,6,192.87,1157.22,user_215@company.com,
+TXN-1216,24-Jun-2023,,Elec.,-3,251.69,,invalid_email_at_gmail.com,Debit
+TXN-1217,26-Dec-2023, north,Electronics,3,293.77,881.31,user_217@company.com,PayPal
+TXN-1218,09/22/2023,North,Furniture,2,102.65,205.3,user_218@company.com,Cash
+TXN-1219,31/11/2023,West,Furniture ,5,451.44,2257.2,user_219@company.com,cc
+TXN-1220,09/08/2023,East,OFFICE SUPPLIES,4,340.35,,user_220@company.com,cc
+TXN-1221,2023/11/27 00:00,West,electronics,7,320.3,2242.1,user_221@company.com,cc
+TXN-1222,2023-01-09,,OFFICE SUPPLIES,7,58.75,411.25,user_222@company.com,
+TXN-1223,07/27/2023,,Office Supplies,2,306.05,612.1,user_223@company.com,cc
+TXN-1224,25-Oct-2023,South ,Furniture ,6,-97.91,415.62,user_224@company.com,
+TXN-1225,29-Sep-2023,South ,Office Supplies,7,48.56,,user_225@company.com,CREDIT CARD
+TXN-1226,09-Oct-2023, north,Office Supplies,2,268.38,843.87,user_226@company.com,
+TXN-1227,21-Aug-2023, West,Furniture ,7,207.36,1451.52,user_227@company.com,cc
+TXN-1228,2023-04-29, north,Office Supplies,5,298.52,1492.6,user_228@company.com,Debit
+TXN-1229,2023-06-11,East,Electronics,7,53.72,376.04,user_229@company.com,Paypal
+TXN-1230,12/20/2023,South ,Office-Supplies,6,221.18,1327.08,user_230@company.com,cc
+TXN-1231,05-Sep-2023,East,electronics,5,95.65,478.25,invalid_email_at_gmail.com,CASH
+TXN-1232,26-Sep-2023,South ,Office Supplies,6,493.68,2962.08,user_at_company,PayPal
+TXN-1233,10-Apr-2023,South ,Furniture,5,284.96,1424.8,user_233@company.com,Debit
+TXN-1234,02-Apr-2023,South ,Elec.,4,,1387.36,user_234@company.com,Debit
+TXN-1235,,South,Furniture ,,169.45,1186.15,user_235@company.com,CREDIT CARD
+TXN-1236,2023-05-21,NORTH,Office Supplies,1,56.42,56.42,user_236@company.com,Cash
+TXN-1237,11-Oct-2023,West,Office Supplies,8,488.18,3905.44,user_237@company.com,cc
+TXN-1238,2023/03/06 00:00,South,OFFICE SUPPLIES,4,150.27,601.08,user_238@company.com,CREDIT CARD
+TXN-1239,07-Jan-2023,North,OFFICE SUPPLIES,5,217.67,1088.35,user_239@company.com,Cash
+TXN-1240,14-Aug-2023,,electronics,3,328.43,,user_240@company.com,Debit
+TXN-1241,27-Jan-2023,EAST ,Office-Supplies,7,22.1,154.7,user_241@company.com,
+TXN-1242,2023-09-02,East,Furniture ,2,407.03,814.06,user_242@company.com,CASH
+TXN-1243,2023/07/25 00:00,NORTH,OFFICE SUPPLIES,5,272.92,1364.6,user_243@company.com,Credit Card
+TXN-1244,2023-02-30,North,Elec.,10,146.33,1463.3,user_244@company.com,CASH
+TXN-1245,01/28/2023, West,Elec.,7,-46.98,281.33,user_245@company.com,PayPal
+TXN-1246,16-Oct-2023,South ,Office Supplies,7,-150.11,1106.71,user_246@company.com,Credit Card
+TXN-1247,31/11/2023,South ,Office-Supplies,10,448.57,4485.7,user_247@company.com,CASH
+TXN-1248,2023/10/13 00:00,EAST ,Office-Supplies,1,346.15,346.15,user_248@company.com,Credit Card
+TXN-1249,11/13/2023,EAST ,electronics,5,132.45,662.25,user_249@company.com,Credit Card
+TXN-1250,2023/07/14 00:00,EAST ,electronics,3,42.14,126.42,user_250@company.com,Paypal
+TXN-1251,2023/06/02 00:00,North,Elec.,8,348.4,2787.2,user_251@company.com,Cash
+TXN-1252,2023-11-14,,Office Supplies,7,,2033.36,,CASH
+TXN-1253,02/20/2023,,Furniture,3,208.21,624.63,,CREDIT CARD
+TXN-1254,2023-05-16,South,Office Supplies,1,188.17,188.17,user_254@company.com,PayPal
+TXN-1255,2023-03-30,East,Office Supplies,5,116.24,581.2,user_255@company.com,Paypal
+TXN-1256,2023/07/29 00:00,South,Furniture ,9999,338.11,1304.91,user_256@company.com,Cash
+TXN-1257,29-Aug-2023,West,Furniture ,,485.63,2913.78,user_257@company.com,
+TXN-1258,, West,Office-Supplies,3,96.1,545.14,user_258@company.com,Debit
+TXN-1259,2023/05/25 00:00,East,Furniture ,,302.59,1210.36,user_259@company.com,Paypal
+TXN-1260,2023-02-30,West,OFFICE SUPPLIES,5,217.85,1089.25,,Cash
+TXN-1261,05/16/2023,South ,Office Supplies,8,228.88,1831.04,user_261@company.com,CREDIT CARD
+TXN-1262,10/06/2023,NORTH,OFFICE SUPPLIES,7,-82.94,1164.58,user_262@company.com,Paypal
+TXN-1263,05/17/2023,West,Office-Supplies,5,414.32,2071.6,,CREDIT CARD
+TXN-1264,2023-02-30,NORTH,Elec.,4,247.78,991.12,user_264@company.com,Paypal
+TXN-1265,07-Jun-2023,South ,Elec.,6,276.27,1657.62,user_265@company.com,PayPal
+TXN-1266,28-Aug-2023, north,Electronics,8,,1274.64,user_266@company.com,CREDIT CARD
+TXN-1267,2023/05/20 00:00, West,Elec.,4,99.09,396.36,user_267@company.com,cc
+TXN-1268,2023-11-03,NORTH,Furniture,3,52.1,491.06,user_268@company.com,Credit Card
+TXN-1269,15-Jun-2023,South ,Furniture ,2,359.92,719.84,user_269@company.com,
+TXN-1270,,West,electronics,,106.15,318.45,user_270@company.com,Credit Card
+TXN-1271,2023-12-12,NORTH,Furniture,9,348.14,3133.26,user_271@company.com,CREDIT CARD
+TXN-1272,11-Dec-2023,East,Elec.,5,201.28,1006.4,user_272@company.com,
+TXN-1273,2023/03/31 00:00, north,Office-Supplies,4,213.73,854.92,user_273@company.com,Cash
+TXN-1274,15-Aug-2023,South,electronics,-10,239.9,1679.3,user_274@company.com,cc
+TXN-1275,2023/10/27 00:00,East,electronics,8,190.18,1814.69,user_275@company.com,Cash
+TXN-1276,2023-09-09,South,electronics,5 pcs,59.3,237.2,user_at_company,Cash
+TXN-1277,29-Jul-2023,South ,OFFICE SUPPLIES,4,161.72,646.88,user_277@company.com,Paypal
+TXN-1086,02/23/2023,EAST ,Electronics,8,335.23,2681.84,user_278@company.com,Paypal
+TXN-1279,2023/12/22 00:00,East,Electronics,5,336.23,1681.15,user_279@company.com,Paypal
+TXN-1280,2023-07-25,East,Office-Supplies,5,150.25,751.25,user_280@company.com,PayPal
+TXN-1281,11-Jun-2023,South ,electronics,6,235.45,1487.92,user_281@company.com,CREDIT CARD
+TXN-1282,2023-07-26,,electronics,7,104.79,733.53,user_282@company.com,CASH
+TXN-1283,2023/10/05 00:00,South ,Furniture ,2,113.08,329.34,user_283@company.com,PayPal
+TXN-1284,07-Apr-2023, West,Elec.,1,21.29,21.29,user_284@company.com,Paypal
+TXN-1285,2023/09/13 00:00, north,electronics,7,449.41,3145.87,user_285@company.com,Paypal
+TXN-1286,15-Apr-2023, West,Office-Supplies,5,113.25,,user_286@company.com,Cash
+TXN-1287,2023/05/28 00:00,North,Furniture ,-6,$250.00,485.96,user_287@company.com,Credit Card
+TXN-1288,2023-09-06,,Furniture,4,147,588,user_288@company.com,CREDIT CARD
+TXN-1013,,,Furniture,3,$250.00,,user_289@company.com,Debit
+TXN-1290,05/03/2023,,Furniture ,8,323.24,2585.92,user_290@company.com,cc
+TXN-1291,2023/01/08 00:00, north,OFFICE SUPPLIES,7,46.82,327.74,user_291@company.com,CASH
+TXN-1292,31/11/2023, West,Elec.,1,-170.15,189.48,user_292@company.com,Credit Card
+TXN-1293,2023/02/28 00:00,South,Elec.,9999,325.93,651.86,user_293@company.com,Debit
+TXN-1294,11/28/2023,West,Elec.,4,176.43,705.72,user_294@company.com,Paypal
+TXN-1295,30-May-2023, north,Electronics,6,356.89,2141.34,user_295@company.com,CASH
+TXN-1296,2023/09/05 00:00,EAST ,Electronics,4,283.14,1498.14,user_296@company.com,Credit Card
+TXN-1297,10/10/2023,West,Office Supplies,6,135.45,812.7,user_297@company.com,Debit
+TXN-1048,11/03/2023,South ,Office Supplies,,328.91,2631.28,invalid_email_at_gmail.com,Debit
+TXN-1299,2023/05/22 00:00,EAST ,OFFICE SUPPLIES,7,66.97,657.09,user_299@company.com,CASH
+TXN-1300,17-Sep-2023,North,OFFICE SUPPLIES,5,272.84,1364.2,user_300@company.com,Paypal
+TXN-1301,25-May-2023,NORTH,Furniture ,2,$250.00,448.4,,Paypal
+TXN-1302,2023/10/24 00:00,NORTH,OFFICE SUPPLIES,1,141.26,141.26,user_302@company.com,CASH
+TXN-1303,2023/08/17 00:00,South,Elec.,7,,2141.72,user_303@company.com,cc
+TXN-1304,2023/10/10 00:00,East,Elec.,4,436.95,1747.8,user_304@company.com,cc
+TXN-1305,06/14/2023,EAST ,OFFICE SUPPLIES,1,499.46,499.46,user_305@company.com,CREDIT CARD
+TXN-1306,2023/05/03 00:00,,Office-Supplies,6,307.8,1846.8,user_306@company.com,
+TXN-1307,2023-07-30, West,Furniture ,5,208.31,1041.55,user_307@company.com,
+TXN-1308,2023/08/31 00:00,NORTH,Office Supplies,8,120.35,962.8,user_308@company.com,cc
+TXN-1017,12/06/2023,East,OFFICE SUPPLIES,5,135.98,679.9,user_309@company.com,CREDIT CARD
+TXN-1310,01/19/2023,NORTH,Furniture,4,244.93,979.72,user_310@company.com,Paypal
+TXN-1311,30-Oct-2023, north,electronics,10,189.97,1899.7,user_311@company.com,cc
+TXN-1312,2023-08-14, West,OFFICE SUPPLIES,9999,457.77,3204.39,user_312@company.com,Debit
+TXN-1313,2023-08-22,East,Furniture ,4,190.46,761.84,user_313@company.com,Cash
+TXN-1314,07/29/2023,NORTH,Office Supplies,8,192.99,1543.92,user_314@company.com,Cash
+TXN-1315,2023-02-30,East,Office-Supplies,5,197.93,989.65,user_315@company.com,CASH
+TXN-1316,16-May-2023,North,Furniture ,5,419.94,2099.7,user_316@company.com,Paypal
+TXN-1317,2023-07-23,North,Elec.,5,328.89,1644.45,user_317@company.com,Paypal
+TXN-1318,2023/12/12 00:00, West,Furniture ,2,310.94,621.88,user_318@company.com,cc
+TXN-1319,2023/11/17 00:00,South ,Electronics,3,173.73,521.19,user_319@company.com,
+TXN-1320,2023-01-19,South,Electronics,4,410.77,1643.08,invalid_email_at_gmail.com,Cash
+TXN-1321,17-Dec-2023,NORTH,Elec.,9,28.8,259.2,invalid_email_at_gmail.com,Debit
+TXN-1322,2023/02/16 00:00,,Office Supplies,0,436.69,0,user_322@company.com,PayPal
+TXN-1323,2023-11-21,NORTH,Furniture ,5,261.25,1306.25,,
+TXN-1324,22-Dec-2023, West,OFFICE SUPPLIES,9999,205.14,1025.7,user_324@company.com,cc
+TXN-1325,24-Jan-2023, north,Electronics,5,253.61,1268.05,user_325@company.com,Debit
+TXN-1326,31-May-2023,NORTH,OFFICE SUPPLIES,5,337.03,1685.15,user_326@company.com,Credit Card
+TXN-1327,03/16/2023,,OFFICE SUPPLIES,4,16.26,65.04,user_327@company.com,Credit Card
+TXN-1081,10/17/2023,EAST ,Furniture ,9,437.06,,user_328@company.com,CASH
+TXN-1329,2023/02/10 00:00,EAST ,Electronics,6,228.9,1373.4,user_329@company.com,CASH
+TXN-1330,2023/05/04 00:00,EAST ,Office-Supplies,2,178.05,451.09,user_330@company.com,CASH
+TXN-1331,03/15/2023,EAST ,Furniture ,6,77.74,466.44,user_331@company.com,cc
+TXN-1332,2023/05/11 00:00, West,Furniture,6,225.34,1352.04,user_332@company.com,Cash
+TXN-1333,2023/01/05 00:00,EAST ,Electronics,6,253.2,1519.2,user_333@company.com,Cash
+TXN-1334,12/13/2023,North,Office Supplies,5,207.79,1308.09,user_334@company.com,PayPal
+TXN-1335,2023-02-30,North,Furniture,2,342.54,815.82,user_335@company.com,cc
+TXN-1336,28-Oct-2023,West,Office-Supplies,5,216.24,1424.49,user_336@company.com,CASH
+TXN-1337,06-Aug-2023,South,Office-Supplies,3,481.09,1443.27,user_337@company.com,PayPal
+TXN-1338,06/04/2023,East,Office-Supplies,3,303.65,910.95,,Paypal
+TXN-1339,2023-09-05,North,Furniture,3,405.66,,user_at_company,cc
+TXN-1340,20-Oct-2023,East,Elec.,6,63.58,381.48,user_340@company.com,CASH
+TXN-1341,25-Dec-2023,West,Office-Supplies,6,204.67,1228.02,user_341@company.com,Debit
+TXN-1342,,South,Office-Supplies,4,175.06,700.24,user_342@company.com,Credit Card
+TXN-1343,22-Jul-2023,North,Furniture,9999,289.05,1445.25,invalid_email_at_gmail.com,PayPal
+TXN-1344,,North,Furniture ,5,431.95,2159.75,user_344@company.com,Cash
+TXN-1345,2023/01/26 00:00,South,electronics,7,48.39,338.73,user_345@company.com,Credit Card
+TXN-1346,05/27/2023,South,Office-Supplies,5,45.56,227.8,user_346@company.com,CREDIT CARD
+TXN-1347,06/30/2023,East,Furniture,3,426.66,1279.98,user_347@company.com,Paypal
+TXN-1348,14-Nov-2023,South ,Furniture ,4,114.3,588.2,user_348@company.com,CREDIT CARD
+TXN-1349,12/04/2023,NORTH,Furniture ,7,337.69,2363.83,user_349@company.com,Credit Card
+TXN-1350,2023-11-18, north,Furniture ,5,$250.00,1380.05,user_350@company.com,CREDIT CARD
+TXN-1351,2023-08-14,EAST ,Office-Supplies,7,418.12,2926.84,user_351@company.com,
+TXN-1352,2023-03-09,West,Furniture,8,71.29,570.32,user_352@company.com,CREDIT CARD
+TXN-1353,2023/06/17 00:00,,electronics,7,,,user_353@company.com,CREDIT CARD
+TXN-1354,09-Mar-2023,South ,Elec.,5,282.84,1570.24,invalid_email_at_gmail.com,Debit
+TXN-1068,05/20/2023,NORTH,Elec.,8,473.73,3789.84,user_355@company.com,Credit Card
+TXN-1356,04-Sep-2023, north,Furniture ,4,213.35,853.4,user_356@company.com,Credit Card
+TXN-1357,2023-06-23,North,electronics,6,170.2,1234.06,user_357@company.com,Paypal
+TXN-1358,02/08/2023,South ,OFFICE SUPPLIES,8,307.28,2458.24,user_358@company.com,PayPal
+TXN-1359,2023/04/26 00:00,South ,OFFICE SUPPLIES,6,465.92,2795.52,user_359@company.com,Cash
+TXN-1360,13-Oct-2023, West,Furniture ,3,420.09,1260.27,user_360@company.com,CASH
+TXN-1361,31/11/2023,West,OFFICE SUPPLIES,8,-37.11,3982.32,,CREDIT CARD
+TXN-1362,2023-05-16,,Furniture,4,21.06,84.24,user_362@company.com,CASH
+TXN-1363,11-Dec-2023,West,Office Supplies,7,65.3,457.1,user_363@company.com,CREDIT CARD
+TXN-1364,23-Nov-2023,East,Electronics,2,308.64,617.28,user_364@company.com,CREDIT CARD
+TXN-1365,2023/04/30 00:00,EAST ,Elec.,10,412.08,4120.8,user_365@company.com,
+TXN-1366,,NORTH,Electronics,6,149.77,898.62,user_366@company.com,CREDIT CARD
+TXN-1367,15-Oct-2023,East,Electronics,4,127.21,508.84,user_367@company.com,CREDIT CARD
+TXN-1368,2023-04-24, West,Elec.,5,395.62,1978.1,invalid_email_at_gmail.com,Cash
+TXN-1369,26-Aug-2023,East,electronics,6,37.63,225.78,user_369@company.com,cc
+TXN-1370,03/01/2023,South,Furniture ,4,191,764,user_370@company.com,CREDIT CARD
+TXN-1371,,NORTH,Furniture ,5,257.85,1629.44,user_371@company.com,Credit Card
+TXN-1372,,EAST ,Elec.,6,284.57,1707.42,user_372@company.com,Debit
+TXN-1373,2023-03-01,North,OFFICE SUPPLIES,3,367.02,1101.06,,Paypal
+TXN-1374,10/03/2023,South,Electronics,7,183.87,1287.09,user_374@company.com,PayPal
+TXN-1375,2023/07/09 00:00,South,Furniture,,310.22,2171.54,user_375@company.com,CASH
+TXN-1376,2023/03/21 00:00,NORTH,electronics,8,296.83,2374.64,user_376@company.com,Cash
+TXN-1377,2023/09/08 00:00,South,Elec.,4,278.33,1496.51,user_377@company.com,PayPal
+TXN-1378,2023-05-24,North,Electronics,7,323.84,2266.88,user_378@company.com,Cash
+TXN-1379,2023/04/22 00:00,,OFFICE SUPPLIES,3,137.13,411.39,user_379@company.com,Credit Card
+TXN-1380,01-May-2023,West,Furniture,-2,51.48,205.92,user_380@company.com,Credit Card
+TXN-1381,31/11/2023,NORTH,Office Supplies,4,68.44,273.76,user_381@company.com,Cash
+TXN-1382,06-Oct-2023, north,Office-Supplies,0,120.05,0,user_382@company.com,Credit Card
+TXN-1383,2023-02-30,East,Furniture ,1,255.1,255.1,user_383@company.com,Debit
+TXN-1384,2023/03/04 00:00,North,OFFICE SUPPLIES,1,421.82,421.82,,Credit Card
+TXN-1385,31/11/2023,EAST ,Office Supplies,7,353.63,2475.41,user_385@company.com,CREDIT CARD
+TXN-1386,2023-11-24,South ,OFFICE SUPPLIES,5,396.63,,user_386@company.com,CASH
+TXN-1387,,West,Electronics,5,181.98,909.9,user_387@company.com,Credit Card
+TXN-1388,03/06/2023,,Office Supplies,8,208.28,1666.24,user_388@company.com,
+TXN-1389,2023-02-30,North,electronics,3,$250.00,608.7,user_389@company.com,CASH
+TXN-1390,04/17/2023,,Elec.,5,104.02,520.1,user_390@company.com,
+TXN-1391,30-Apr-2023,North,Electronics,3,40,120,user_391@company.com,CREDIT CARD
+TXN-1392,2023-11-02, north,Furniture ,5,$250.00,1879.74,user_392@company.com,CREDIT CARD
+TXN-1393,03/16/2023,North,Office-Supplies,1,494.72,494.72,user_393@company.com,cc
+TXN-1394,2023-03-31,North,electronics,7,-15.31,,user_394@company.com,Credit Card
+TXN-1395,01/14/2023, north,OFFICE SUPPLIES,2,32.88,65.76,user_395@company.com,Cash
+TXN-1396,,EAST ,Elec.,4,391.97,1567.88,user_396@company.com,Paypal
+TXN-1397,02-May-2023, West,Furniture,6,133.77,,user_397@company.com,cc
+TXN-1398,,EAST ,Furniture ,7,416.53,2915.71,user_398@company.com,CASH
+TXN-1399,2023/03/06 00:00, north,Office-Supplies,9,354.93,3194.37,user_399@company.com,cc
+TXN-1400,2023/02/02 00:00,West,Electronics,4,473.38,1893.52,user_400@company.com,cc
+TXN-1401,2023-07-05,South ,electronics,1,210.37,,user_401@company.com,Debit
+TXN-1402,2023-04-24, West,Furniture,4,-50.43,1337.48,user_402@company.com,Debit
+TXN-1403,04-Dec-2023,NORTH,Office-Supplies,6,237.78,1426.68,invalid_email_at_gmail.com,CASH
+TXN-1404,2023-01-16,South,OFFICE SUPPLIES,5 pcs,318.99,956.97,user_404@company.com,
+TXN-1405,2023/07/25 00:00,North,Furniture,4,230.3,921.2,user_405@company.com,Debit
+TXN-1406,2023/09/09 00:00,South ,Electronics,2,102.43,204.86,user_406@company.com,CREDIT CARD
+TXN-1407,2023-02-30,EAST ,Furniture,6,258.87,1553.22,user_407@company.com,Credit Card
+TXN-1408,31/11/2023, north,OFFICE SUPPLIES,8,269.01,2152.08,user_408@company.com,PayPal
+TXN-1409,02/03/2023,West,electronics,7,407.2,2850.4,user_409@company.com,Debit
+TXN-1410,21-Nov-2023,South ,Furniture,2,370.41,852.25,user_410@company.com,Debit
+TXN-1411,02-Nov-2023,,OFFICE SUPPLIES,6,335.26,2011.56,user_411@company.com,PayPal
+TXN-1412,2023/11/06 00:00,,Office-Supplies,-10,65.56,590.04,user_412@company.com,CREDIT CARD
+TXN-1413,31/11/2023,NORTH,Furniture ,3,363.1,1089.3,user_413@company.com,Cash
+TXN-1414,12/02/2023,EAST ,Office Supplies,-1,255.15,2041.2,user_414@company.com,
+TXN-1415,2023/04/27 00:00, north,Elec.,7,448.11,3136.77,,Cash
+TXN-1416,2023/08/21 00:00,West,Electronics,6,,2764.44,,cc
+TXN-1417,18-Feb-2023,,electronics,10,37.03,370.3,user_417@company.com,Debit
+TXN-1418,07-Dec-2023, north,Furniture ,9999,412.11,2060.55,user_418@company.com,Debit
+TXN-1419,2023/03/20 00:00,South ,OFFICE SUPPLIES,5,28.47,142.35,user_419@company.com,Paypal
+TXN-1420,2023-02-30, north,Furniture ,5,189.91,949.55,user_420@company.com,CREDIT CARD
+TXN-1421,2023/02/17 00:00, north,Furniture,5,275.73,1378.65,user_421@company.com,Paypal
+TXN-1422,31/11/2023, West,Office Supplies,4,-170.92,330.28,user_422@company.com,
+TXN-1423,2023-03-08,South,Electronics,10,375.69,4192.54,user_423@company.com,CREDIT CARD
+TXN-1424,15-Oct-2023,,Furniture,3,14.09,42.27,user_424@company.com,CREDIT CARD
+TXN-1425,30-Jul-2023,South,electronics,2,92.61,185.22,invalid_email_at_gmail.com,Paypal
+TXN-1000,2023-08-05,South ,Furniture,6,294.59,,user_426@company.com,cc
+TXN-1427,04-Nov-2023,West,Office-Supplies,4,,1440.2,user_427@company.com,cc
+TXN-1428,10/23/2023,South,Office Supplies,4,459.16,1836.64,user_428@company.com,CASH
+TXN-1429,09/04/2023,East,Electronics,8,355.69,2845.52,user_429@company.com,PayPal
+TXN-1430,29-Jun-2023,EAST ,Elec.,5,339.17,1695.85,user_430@company.com,cc
+TXN-1431,05/23/2023,South ,Furniture ,4,203.23,812.92,user_431@company.com,Paypal
+TXN-1432,2023-10-15,NORTH,electronics,7,10.63,74.41,user_432@company.com,Paypal
+TXN-1433,03-Dec-2023,North,Office-Supplies,4,68.88,275.52,user_433@company.com,PayPal
+TXN-1434,,West,Furniture,2,271.93,543.86,user_434@company.com,CREDIT CARD
+TXN-1435,08-Jun-2023, West,Electronics,2,340.81,681.62,user_435@company.com,PayPal
+TXN-1436,04/03/2023,South,Electronics,3,214.55,643.65,user_436@company.com,Cash
+TXN-1437,2023-07-25, West,OFFICE SUPPLIES,3,368.03,1104.09,user_437@company.com,Debit
+TXN-1438,2023-11-21,East,Elec.,-7,265.71,2616.76,user_438@company.com,
+TXN-1439,31/11/2023,South,Office Supplies,6,46.35,539.89,user_439@company.com,
+TXN-1440,2023/07/12 00:00,North,electronics,0,104.09,0,user_440@company.com,PayPal
+TXN-1441,22-Mar-2023,North,Furniture,8,421.6,3661.8,user_441@company.com,CREDIT CARD
+TXN-1442,2023-06-16, north,Elec.,5,365.21,1826.05,user_442@company.com,Cash
+TXN-1443,03/21/2023, north,OFFICE SUPPLIES,4,448.43,,user_443@company.com,CASH
+TXN-1444,2023-01-26,,electronics,5,67.6,338,user_444@company.com,Cash
+TXN-1445,2023/12/05 00:00, West,Office Supplies,7,495.21,3466.47,user_445@company.com,CREDIT CARD
+TXN-1446,2023/08/15 00:00,NORTH,Electronics,6,112.61,675.66,user_446@company.com,Credit Card
+TXN-1447,2023-09-20, north,Electronics,3,15.77,47.31,user_447@company.com,CASH
+TXN-1448,26-Feb-2023,West,Office Supplies,4,498.74,2374.26,user_448@company.com,Credit Card
+TXN-1449,2023/10/31 00:00, north,Elec.,2,147.73,295.46,user_449@company.com,Paypal
+TXN-1450,2023-06-07, north,electronics,4,337.33,1349.32,user_450@company.com,CREDIT CARD
+TXN-1451,2023-11-03,South ,Elec.,1,96.57,96.57,user_451@company.com,Credit Card
+TXN-1452,,South,OFFICE SUPPLIES,5 pcs,294.31,2648.79,user_452@company.com,CREDIT CARD
+TXN-1453,04/19/2023, West,Furniture,3,452.98,1624.84,user_453@company.com,Credit Card
+TXN-1454,29-May-2023,South ,Office Supplies,1,166.89,,user_454@company.com,Paypal
+TXN-1455,2023/09/12 00:00,South ,Office Supplies,5,338.42,1692.1,user_455@company.com,CREDIT CARD
+TXN-1456,07/14/2023, West,OFFICE SUPPLIES,4,102.07,408.28,user_456@company.com,CASH
+TXN-1457,09-Dec-2023,North,Furniture,6,316.15,1896.9,invalid_email_at_gmail.com,Cash
+TXN-1458,2023-02-30, north,Electronics,5,174.86,1128.98,user_458@company.com,Credit Card
+TXN-1459,2023/01/22 00:00,NORTH,Office-Supplies,8,113.49,907.92,user_459@company.com,Debit
+TXN-1460,,North,Office Supplies,5,163.46,817.3,user_at_company,Debit
+TXN-1461,2023/06/10 00:00,South ,Elec.,7,97.63,683.41,user_461@company.com,Cash
+TXN-1462,2023/12/30 00:00,East,Furniture ,4,451.94,1807.76,user_462@company.com,Paypal
+TXN-1463,2023-07-27,East,Electronics,1,204.62,204.62,user_463@company.com,CASH
+TXN-1464,2023/03/29 00:00,EAST ,OFFICE SUPPLIES,5,130.19,650.95,user_464@company.com,Debit
+TXN-1465,2023-07-05, north,OFFICE SUPPLIES,4,229.72,918.88,user_465@company.com,Paypal
+TXN-1466,02/24/2023, north,Furniture ,3,167.06,501.18,user_466@company.com,Debit
+TXN-1467,2023-07-25,North,OFFICE SUPPLIES,2,-42,1201.59,user_at_company,PayPal
+TXN-1468,08-Jun-2023,North,Furniture,12,485.9,5830.8,user_468@company.com,
+TXN-1469,2023-03-28,NORTH,Elec.,5,224.64,1364.86,user_469@company.com,Debit
+TXN-1470,02/28/2023,NORTH,Office Supplies,10,431.91,4319.1,user_470@company.com,cc
+TXN-1471,28-Jun-2023,East,Office Supplies,6,287.27,1723.62,user_471@company.com,PayPal
+TXN-1472,11/27/2023,East,OFFICE SUPPLIES,1,87.05,87.05,user_472@company.com,
+TXN-1473,16-Mar-2023, West,Furniture ,6,348.41,2090.46,user_473@company.com,Cash
+TXN-1474,11/05/2023,,Elec.,2,261.58,523.16,user_474@company.com,Cash
+TXN-1475,2023-12-02,South ,electronics,4,328.8,1761.58,user_475@company.com,CREDIT CARD
+TXN-1476,2023/11/18 00:00, north,Elec.,,445.95,2229.75,user_476@company.com,PayPal
+TXN-1477,2023/10/16 00:00,East,OFFICE SUPPLIES,,-54.61,2281.88,user_477@company.com,Cash
+TXN-1478,17-Oct-2023,East,Furniture ,4,-60.56,1806.32,user_478@company.com,Debit
+TXN-1479,18-Nov-2023,NORTH,Furniture ,2,377.83,,user_479@company.com,
+TXN-1480,2023/02/04 00:00, north,Office Supplies,1,249.42,249.42,user_480@company.com,Debit
+TXN-1481,05-Jun-2023,EAST ,OFFICE SUPPLIES,8,305.58,2444.64,user_481@company.com,cc
+TXN-1482,2023-06-30,EAST ,Electronics,8,169.53,1356.24,user_482@company.com,Cash
+TXN-1483,2023-08-20, West,Office-Supplies,4,491.96,1967.84,user_483@company.com,
+TXN-1484,,South ,Elec.,1,337,337,user_484@company.com,PayPal
+TXN-1485,2023-02-09,EAST ,Electronics,9,31.48,283.32,user_at_company,cc
+TXN-1486,2023/09/17 00:00, West,Office Supplies,4,170.04,,user_486@company.com,Cash
+TXN-1487,2023-10-11,EAST ,Furniture,2,315.42,630.84,user_487@company.com,CASH
+TXN-1488,10/20/2023,NORTH,Office Supplies,4,-33.35,150.4,user_488@company.com,Credit Card
+TXN-1489,09/01/2023, north,electronics,3,21.7,65.1,user_489@company.com,
+TXN-1490,2023-08-19,NORTH,Office-Supplies,8,230.51,1844.08,,CREDIT CARD
+TXN-1491,2023-06-25,North,Furniture,9,173.02,,user_491@company.com,cc
+TXN-1492,2023-03-30,NORTH,OFFICE SUPPLIES,4,224.77,899.08,user_492@company.com,Paypal
+TXN-1493,2023/08/13 00:00, north,Elec.,4,138.72,554.88,user_493@company.com,Debit
+TXN-1494,11/09/2023,EAST ,Furniture ,5,90.71,453.55,user_494@company.com,cc
+TXN-1495,2023/05/25 00:00,,Office Supplies,11,347.68,3824.48,user_495@company.com,cc
+TXN-1496,2023-06-23, West,Office-Supplies,8,262.14,2097.12,user_496@company.com,
+TXN-1497,28-Nov-2023,,Office Supplies,6,108.08,648.48,user_497@company.com,PayPal
+TXN-1498,2023-02-30, West,electronics,2,166.6,333.2,user_498@company.com,CREDIT CARD
+TXN-1499,31/11/2023,NORTH,electronics,8,299.99,2399.92,user_499@company.com,Cash
+TXN-1500,26-May-2023,,electronics,7,45.39,,user_500@company.com,PayPal
+TXN-1501,12/03/2023,EAST ,Electronics,6,82.25,493.5,user_501@company.com,Debit
+TXN-1502,10/26/2023,East,Elec.,5,45.89,434.8,user_502@company.com,CASH
+TXN-1503,2023/06/08 00:00,,Elec.,3,408.04,1224.12,user_503@company.com,
+TXN-1504,2023-12-29,North,Electronics,5,378.68,1893.4,user_504@company.com,cc
+TXN-1505,12-Jul-2023,NORTH,Furniture,3,379.12,1137.36,,
+TXN-1506,2023-12-10, West,electronics,3,-186.51,1083,user_506@company.com,CREDIT CARD
+TXN-1071,05-Aug-2023, West,OFFICE SUPPLIES,7,338,2366,user_507@company.com,CASH
+TXN-1508,, north,Furniture,4,243.73,974.92,user_508@company.com,
+TXN-1509,20-Apr-2023,EAST ,electronics,4,324.72,1298.88,user_509@company.com,Paypal
+TXN-1510,09/06/2023, West,Electronics,6,28.8,172.8,user_510@company.com,CREDIT CARD
+TXN-1511,03/12/2023,North,Office-Supplies,6,314.52,1887.12,user_511@company.com,Paypal
+TXN-1512,2023-02-30, north,OFFICE SUPPLIES,,391.16,1173.48,user_at_company,Credit Card
+TXN-1513,2023-02-21,South ,Furniture ,4,255.18,1020.72,user_513@company.com,Paypal
+TXN-1514,11/13/2023,East,Electronics,6,185.18,1111.08,user_514@company.com,Cash
+TXN-1515,03/20/2023,North,Office Supplies,6,145.94,1327,user_515@company.com,
+TXN-1516,12/21/2023,West,Furniture,6,324.97,1949.82,user_516@company.com,CREDIT CARD
+TXN-1517,2023/01/23 00:00,,electronics,6,349.47,2550.9,user_517@company.com,
+TXN-1518,2023/05/02 00:00,,Electronics,3,436.77,1310.31,,
+TXN-1519,08/18/2023,South,Furniture,5,177.74,888.7,user_519@company.com,Credit Card
+TXN-1520,2023/06/08 00:00,East,OFFICE SUPPLIES,2,387.19,774.38,user_520@company.com,
+TXN-1521,10-Apr-2023,West,electronics,5,285.06,1425.3,user_521@company.com,Cash
+TXN-1522,2023/10/20 00:00,West,OFFICE SUPPLIES,3,442.59,1327.77,user_522@company.com,
+TXN-1523,2023/05/25 00:00,,Electronics,3,-171.95,805.89,user_523@company.com,Paypal
+TXN-1524,08/03/2023, north,Office Supplies,5,263.64,1318.2,user_524@company.com,
+TXN-1525,11/06/2023,EAST ,Office-Supplies,11,293.16,3224.76,user_525@company.com,CREDIT CARD
+TXN-1526,2023/01/27 00:00,South,Office Supplies,7,377.16,2640.12,user_526@company.com,Cash
+TXN-1527,2023-10-11, West,Electronics,9999,482.7,3378.9,user_527@company.com,CREDIT CARD
+TXN-1528,2023-09-22,East,Furniture ,4,46.05,184.2,user_528@company.com,cc
+TXN-1529,24-Mar-2023,EAST ,Electronics,1,36.18,36.18,user_529@company.com,CREDIT CARD
+TXN-1530,09/20/2023,NORTH,electronics,4,469.4,,user_530@company.com,Paypal
+TXN-1531,02/16/2023,West,Furniture ,5,269.64,1348.2,user_531@company.com,CREDIT CARD
+TXN-1532,2023-06-28,,electronics,4,311.3,1245.2,user_532@company.com,
+TXN-1533,22-Jul-2023,North,Furniture,4,246.39,985.56,user_533@company.com,CASH
+TXN-1534,11-Feb-2023,North,electronics,7,55.89,391.23,user_534@company.com,Paypal
+TXN-1535,2023-06-13,NORTH,electronics,6,386.36,2760.47,user_535@company.com,PayPal
+TXN-1536,29-Nov-2023,West,Furniture,9999,376.14,3009.12,user_536@company.com,Credit Card
+TXN-1537,2023-03-12, West,Office-Supplies,4,162.73,650.92,user_537@company.com,CASH
+TXN-1538,08/30/2023, West,Furniture,,160.06,480.18,user_538@company.com,PayPal
+TXN-1539,2023/08/29 00:00,NORTH,Furniture,0,420.54,0,user_539@company.com,CASH
+TXN-1019,2023-02-10, north,Furniture,4,45.46,181.84,invalid_email_at_gmail.com,
+TXN-1541,2023/03/18 00:00, West,Elec.,1,,441.74,user_541@company.com,CASH
+TXN-1542,05/28/2023,East,Office-Supplies,4,135.76,543.04,user_542@company.com,Debit
+TXN-1543,01/25/2023,South,electronics,3,300.56,901.68,user_543@company.com,Debit
+TXN-1544,2023/11/15 00:00,East,Office Supplies,5,468.64,2343.2,user_544@company.com,Cash
+TXN-1545,2023-02-30,South ,OFFICE SUPPLIES,6,342.28,2053.68,user_545@company.com,CREDIT CARD
+TXN-1546,2023-09-13,North,Office-Supplies,6,213.07,1278.42,user_546@company.com,PayPal
+TXN-1011,10/22/2023,West,electronics,4,347.87,1391.48,user_547@company.com,Credit Card
+TXN-1548,2023/05/30 00:00,South,Elec.,4,,714.2,user_548@company.com,cc
+TXN-1549,,West,Elec.,5,145.86,729.3,user_549@company.com,PayPal
+TXN-1550,2023/10/20 00:00,EAST ,Office-Supplies,1,498.37,498.37,user_550@company.com,
+TXN-1551,2023-12-09,EAST ,Office Supplies,9,377.89,3401.01,user_551@company.com,PayPal
+TXN-1552,2023-07-04,South,Elec.,7,325.91,2281.37,invalid_email_at_gmail.com,Paypal
+TXN-1553,2023-10-06, north,OFFICE SUPPLIES,5,184.09,920.45,user_553@company.com,cc
+TXN-1554,2023-08-29, West,Office Supplies,4,34.09,136.36,user_554@company.com,Credit Card
+TXN-1555,11-Jul-2023, West,Office Supplies,5,25.22,335,invalid_email_at_gmail.com,CASH
+TXN-1556,2023-07-02,,Office Supplies,4,281.55,1126.2,user_556@company.com,CREDIT CARD
+TXN-1031,2023-12-03, West,Office Supplies,-2,383.4,383.4,,CREDIT CARD
+TXN-1558,06/20/2023, north,Office-Supplies,3,273.32,,user_558@company.com,Debit
+TXN-1559,, West,Office-Supplies,7,421.98,2953.86,user_559@company.com,CREDIT CARD
+TXN-1560,11/26/2023, West,Office Supplies,6,26.38,158.28,user_560@company.com,Paypal
+TXN-1561,2023/12/17 00:00,East,Furniture,10,189.71,1897.1,user_561@company.com,CASH
+TXN-1562,09/03/2023, north,Furniture,4,126.16,504.64,invalid_email_at_gmail.com,CREDIT CARD
+TXN-1563,2023/02/02 00:00, West,Office-Supplies,5,229.16,1145.8,user_563@company.com,CASH
+TXN-1564,,North,Furniture ,6,-115.65,272.76,user_564@company.com,CASH
+TXN-1565,2023-04-13, north,Office Supplies,6,477.52,2865.12,invalid_email_at_gmail.com,Paypal
+TXN-1566,2023/06/08 00:00,EAST ,OFFICE SUPPLIES,8,119.4,955.2,user_566@company.com,Paypal
+TXN-1567,2023/10/06 00:00,EAST ,OFFICE SUPPLIES,4,461.93,2040.2,user_567@company.com,Cash
+TXN-1568,11/28/2023,North,Office-Supplies,3,218.69,656.07,user_568@company.com,cc
+TXN-1569,25-Jan-2023,West,Electronics,3,492.91,1478.73,user_569@company.com,Paypal
+TXN-1570,2023/07/08 00:00,West,Electronics,9,281.49,2533.41,user_570@company.com,PayPal
+TXN-1571,2023/08/14 00:00,North,Furniture ,7,466.11,3262.77,user_571@company.com,CREDIT CARD
+TXN-1572,2023/04/06 00:00, north,Electronics,9999,12.62,217.86,user_572@company.com,CASH
+TXN-1573,08-Jul-2023,,Elec.,2,376.64,753.28,user_573@company.com,cc
+TXN-1574,2023-08-06,,Furniture ,4,-67.11,1809.96,user_574@company.com,CREDIT CARD
+TXN-1575,03-Apr-2023,South ,Electronics,6,78.46,470.76,user_575@company.com,Paypal
+TXN-1576,10-Feb-2023,West,Furniture ,9,57.1,513.9,user_576@company.com,Debit
+TXN-1577,2023/06/06 00:00,West,Furniture,11,218.04,2398.44,user_577@company.com,CREDIT CARD
+TXN-1578,08/07/2023,South,Furniture,4,467.5,1870,user_578@company.com,PayPal
+TXN-1579,2023/06/29 00:00, West,Office Supplies,7,275.77,1930.39,user_579@company.com,Cash
+TXN-1580,,East,Electronics,7,268.45,1879.15,invalid_email_at_gmail.com,Credit Card
+TXN-1581,2023/06/30 00:00,East,Furniture ,3,79.15,237.45,invalid_email_at_gmail.com,cc
+TXN-1582,2023-01-30,North,Elec.,7,10.39,72.73,user_582@company.com,
+TXN-1583,27-Jul-2023,South,electronics,5,406.97,2034.85,user_583@company.com,PayPal
+TXN-1584,12/14/2023, West,Electronics,2,52.91,488.14,user_584@company.com,
+TXN-1585,2023/03/15 00:00,East,OFFICE SUPPLIES,9,320.59,2885.31,user_585@company.com,cc
+TXN-1586,,West,Office Supplies,,458.16,2748.96,user_586@company.com,Debit
+TXN-1587,2023-02-30,,Elec.,3,112.24,336.72,user_587@company.com,Paypal
+TXN-1588,07-Jul-2023,,Elec.,6,335.98,2015.88,user_588@company.com,Debit
+TXN-1589,2023-10-18, West,Furniture ,3,48.56,145.68,user_at_company,PayPal
+TXN-1590,2023/12/14 00:00,East,Office Supplies,2,-124.69,611.68,user_590@company.com,cc
+TXN-1591,2023/07/10 00:00, West,Furniture,8,90.33,722.64,user_at_company,
+TXN-1592,10/21/2023, north,Furniture,,370.62,1482.48,,Debit
+TXN-1593,23-Jul-2023, north,Furniture ,5,157.6,788,user_593@company.com,CREDIT CARD
+TXN-1594,2023-05-08,South,Furniture ,4,-81.66,948.24,user_594@company.com,cc
+TXN-1595,,North,electronics,3,303.72,911.16,user_595@company.com,Cash
+TXN-1596,2023/09/23 00:00,East,Office-Supplies,4,93.92,375.68,user_596@company.com,PayPal
+TXN-1597,02-Mar-2023,East,Furniture,3,373.4,1120.2,invalid_email_at_gmail.com,Credit Card
+TXN-1598,2023/12/27 00:00,South ,electronics,11,158.29,1741.19,user_598@company.com,CASH
+TXN-1599,10-Nov-2023,West,Office Supplies,6,334.56,2007.36,user_599@company.com,PayPal
+TXN-1600,09/09/2023,West,OFFICE SUPPLIES,5,87.56,437.8,user_600@company.com,cc
+TXN-1601,2023/02/07 00:00,East,Elec.,5,347.18,1735.9,user_601@company.com,Debit
+TXN-1602,2024/01/01 00:00, north,OFFICE SUPPLIES,5,72.81,364.05,user_602@company.com,CASH
+TXN-1603,16-Dec-2023,North,electronics,3,-107.58,655.26,user_603@company.com,CREDIT CARD
+TXN-1604,2023-12-30,NORTH,Furniture ,6,131.13,786.78,user_604@company.com,Debit
+TXN-1605,29-May-2023, West,Electronics,5 pcs,376.7,1506.8,user_605@company.com,PayPal
+TXN-1606,12/31/2023,NORTH,Office-Supplies,5,138.4,766.77,user_606@company.com,Paypal
+TXN-1607,09/18/2023,EAST ,electronics,3,442.04,1326.12,user_607@company.com,
+TXN-1608,04/13/2023, north,Electronics,7,446.99,3128.93,user_608@company.com,cc
+TXN-1609,2023-09-10,South ,Office Supplies,3,106.26,318.78,user_609@company.com,cc
+TXN-1610,21-Oct-2023,,Office Supplies,6,310.78,1864.68,user_at_company,Cash
+TXN-1611,10/10/2023,South,Office-Supplies,7,52.98,370.86,user_611@company.com,Paypal
+TXN-1612,2023-02-14,South,Office-Supplies,1,201.85,494.14,user_612@company.com,Debit
+TXN-1613,2023/09/03 00:00, north,electronics,6,359.53,,user_613@company.com,CASH
+TXN-1614,2023-10-22,EAST ,Furniture,4,333.12,1332.48,,CASH
+TXN-1615,2023-06-12,South,Electronics,2,316.1,912.5,user_615@company.com,Credit Card
+TXN-1616,15-Dec-2023, West,Office-Supplies,2,148.45,296.9,user_616@company.com,cc
+TXN-1617,10/10/2023,South,Electronics,5,195.23,976.15,user_617@company.com,PayPal
+TXN-1618,2023/03/08 00:00,East,Furniture ,5,60.44,302.2,user_618@company.com,PayPal
+TXN-1619,2023-01-29, north,Electronics,3,362.32,1086.96,user_619@company.com,PayPal
+TXN-1620,06/05/2023,EAST ,Office Supplies,5,256.91,1284.55,user_620@company.com,
+TXN-1621,12/30/2023,North,Elec.,11,357.3,3930.3,user_621@company.com,Cash
+TXN-1622,23-Sep-2023,,Office Supplies,2,131.98,263.96,invalid_email_at_gmail.com,CASH
+TXN-1623,05/09/2023, north,Furniture,6,168.97,1013.82,user_623@company.com,PayPal
+TXN-1624,10-Oct-2023, West,Elec.,5,173.77,868.85,user_624@company.com,Cash
+TXN-1625,2023-06-05, West,Electronics,,22.61,67.83,user_625@company.com,cc
+TXN-1626,03/28/2023,,Office-Supplies,4,177.11,708.44,user_626@company.com,Credit Card
+TXN-1627,16-Nov-2023,West,OFFICE SUPPLIES,10,403.62,4036.2,user_627@company.com,cc
+TXN-1628,2023-10-16,NORTH,electronics,1,449.68,449.68,user_628@company.com,Debit
+TXN-1629,2023-01-15, West,Furniture,8,263.93,2111.44,user_629@company.com,Paypal
+TXN-1630,,North,Office-Supplies,3,233.2,1077.13,,Debit
+TXN-1631,23-Oct-2023,West,Furniture ,5,25.1,125.5,,Paypal
+TXN-1632,2023/10/20 00:00,North,Office-Supplies,4,440.81,,user_632@company.com,CASH
+TXN-1633,2023/01/16 00:00,West,Elec.,11,16.38,180.18,user_633@company.com,PayPal
+TXN-1634,07-Oct-2023,EAST ,Elec.,3,472.93,1418.79,user_634@company.com,cc
+TXN-1635,2023/06/04 00:00,,Office Supplies,4,-179.14,998.88,user_635@company.com,Debit
+TXN-1636,2023/12/17 00:00, West,electronics,3,177.55,532.65,user_636@company.com,
+TXN-1637,2023-02-07,West,OFFICE SUPPLIES,3,462.87,1388.61,user_637@company.com,CASH
+TXN-1638,2023/08/01 00:00,NORTH,Electronics,8,21.95,175.6,user_638@company.com,
+TXN-1639,06/24/2023,,Office-Supplies,1,294.9,294.9,user_639@company.com,CASH
+TXN-1640,13-Jun-2023,NORTH,Furniture ,5,278.98,1394.9,,Credit Card
+TXN-1077,08-Mar-2023,NORTH,electronics,7,117.47,965.79,user_641@company.com,cc
+TXN-1642,24-Feb-2023, north,Office-Supplies,3,220.15,660.45,user_642@company.com,cc
+TXN-1643,04-Mar-2023,EAST ,Office-Supplies,7,329.61,2307.27,user_643@company.com,cc
+TXN-1644,2023-03-14,,Elec.,5,366.29,,user_644@company.com,cc
+TXN-1645,,,Elec.,7,10.35,554.49,user_645@company.com,Paypal
+TXN-1646,2023/11/12 00:00,East,OFFICE SUPPLIES,5,469.06,2345.3,user_646@company.com,Cash
+TXN-1647,23-Mar-2023,West,Furniture,7,90.62,868.6,user_647@company.com,CASH
+TXN-1648,06/10/2023,EAST ,OFFICE SUPPLIES,5,124.45,622.25,user_648@company.com,CASH
+TXN-1649,2023/09/13 00:00,EAST ,Office-Supplies,4,139.1,556.4,user_at_company,Credit Card
+TXN-1650,2023/06/07 00:00,,Furniture,5,28.53,142.65,user_650@company.com,Cash
+TXN-1651,,South,Furniture,11,70.3,773.3,user_651@company.com,Debit
+TXN-1652,2023/09/16 00:00,South ,Furniture,9999,493.31,3453.17,user_652@company.com,Debit
+TXN-1653,21-Apr-2023,EAST ,electronics,6,164.46,986.76,user_653@company.com,
+TXN-1654,,East,Furniture ,3,66.5,199.5,user_654@company.com,Credit Card
+TXN-1655,2023/11/02 00:00,South ,Office-Supplies,0,62.43,0,user_655@company.com,CASH
+TXN-1656,2023-01-05, West,Office Supplies,10,362.54,3625.4,user_656@company.com,CASH
+TXN-1657,16-May-2023,NORTH,electronics,5,428.74,2565.51,user_657@company.com,Credit Card
+TXN-1658,2023-07-07,NORTH,electronics,5,135.91,679.55,user_658@company.com,Paypal
+TXN-1659,10/19/2023,EAST ,Office-Supplies,3,20.25,60.75,user_659@company.com,CREDIT CARD
+TXN-1660,2023-05-28,,Office-Supplies,4,119.31,477.24,user_660@company.com,Credit Card
+TXN-1661,19-Aug-2023,West,Office Supplies,2,37.69,75.38,user_661@company.com,Cash
+TXN-1662,2023-11-16,South ,Office Supplies,2,60.66,172.42,user_662@company.com,cc
+TXN-1003,2023/02/19 00:00,West,Furniture,9999,221.44,1550.08,user_663@company.com,PayPal
+TXN-1664,23-Jun-2023,East,Office Supplies,3,122.66,367.98,user_664@company.com,CASH
+TXN-1665,2023/04/12 00:00,West,Office Supplies,5 pcs,262.81,262.81,user_665@company.com,Credit Card
+TXN-1666,2023-01-24,South,Electronics,3,134.21,402.63,user_666@company.com,Debit
+TXN-1667,2023/06/20 00:00,South,Furniture ,7,470.86,3296.02,user_667@company.com,PayPal
+TXN-1668,03/18/2023,South,Elec.,5,453.91,2269.55,invalid_email_at_gmail.com,Cash
+TXN-1043,10-Nov-2023,,Office Supplies,5,287.73,1438.65,user_669@company.com,Cash
+TXN-1670,12-Nov-2023,South ,OFFICE SUPPLIES,5 pcs,$250.00,,user_670@company.com,Cash
+TXN-1671,2023/09/17 00:00,East,Elec.,5,196.76,983.8,user_671@company.com,Paypal
+TXN-1672,2023/06/03 00:00,NORTH,OFFICE SUPPLIES,5,211.81,1059.05,user_672@company.com,PayPal
+TXN-1673,08-Jul-2023,NORTH,Electronics,3,366.51,1099.53,user_673@company.com,Debit
+TXN-1674,02-Aug-2023,West,Furniture,3,-114.84,693.9,user_674@company.com,Credit Card
+TXN-1675,2023-12-19,West,Furniture,6,429.8,2578.8,user_675@company.com,Cash
+TXN-1676,05/16/2023,East,Office Supplies,6,472.61,3221.16,user_676@company.com,Debit
+TXN-1677,2023/10/26 00:00, north,Elec.,4,174.61,698.44,user_677@company.com,PayPal
+TXN-1678,2023/11/19 00:00,East,electronics,9,284.74,2562.66,user_678@company.com,CREDIT CARD
+TXN-1679,12/15/2023,West,electronics,6,56.58,339.48,user_679@company.com,Paypal
+TXN-1680,, West,Electronics,5,108.23,541.15,user_680@company.com,
+TXN-1681,02/26/2023,,Furniture,5,212.6,1063,user_681@company.com,
+TXN-1682,,,Elec.,4,111.04,444.16,,Cash
+TXN-1683,2023/03/19 00:00,EAST ,Furniture ,10,439.51,,user_683@company.com,CASH
+TXN-1684,2023/07/30 00:00,West,Electronics,6,87.56,525.36,user_684@company.com,Cash
+TXN-1685,02/01/2023,South ,Office Supplies,2,233.27,466.54,user_685@company.com,CREDIT CARD
+TXN-1686,15-Oct-2023,EAST ,electronics,4,306.79,1227.16,invalid_email_at_gmail.com,Debit
+TXN-1687,2023/09/02 00:00,North,Furniture ,3,349.01,1047.03,,cc
+TXN-1688,2023/03/30 00:00,West,OFFICE SUPPLIES,2,197.7,589.26,user_688@company.com,Cash
+TXN-1689,25-Jun-2023, north,OFFICE SUPPLIES,9999,435.86,2179.3,user_689@company.com,Cash
+TXN-1690,15-Dec-2023,North,Electronics,6,$250.00,1730.88,user_690@company.com,
+TXN-1691,04/09/2023,EAST ,Office Supplies,5,225.36,1126.8,user_691@company.com,Paypal
+TXN-1692,06/02/2023,NORTH,Furniture,10,42.95,429.5,user_692@company.com,Cash
+TXN-1693,02-Jun-2023,North,Furniture,5,237.7,1188.5,user_693@company.com,PayPal
+TXN-1694,2023/12/20 00:00,North,Furniture,5,412.16,2060.8,user_694@company.com,cc
+TXN-1695,28-Jun-2023,South,Furniture ,4,311.13,1244.52,invalid_email_at_gmail.com,cc
+TXN-1696,2023/10/21 00:00,South ,OFFICE SUPPLIES,4,417.76,1671.04,user_696@company.com,CASH
+TXN-1697,22-Jul-2023,NORTH,Elec.,3,252.07,756.21,user_697@company.com,Cash
+TXN-1698,16-Mar-2023,South ,Electronics,6,68.05,408.3,user_698@company.com,Debit
+TXN-1699,,South ,Office-Supplies,4,16.68,66.72,invalid_email_at_gmail.com,CREDIT CARD
+TXN-1700,10-Feb-2023,NORTH,Electronics,5 pcs,158.58,,user_700@company.com,CASH
+TXN-1701,02-Dec-2023,North,Furniture ,9,352.02,3168.18,user_701@company.com,Paypal
+TXN-1702,04/20/2023,South ,Elec.,5,397.23,2374.83,user_702@company.com,PayPal
+TXN-1703,19-May-2023,South,Electronics,9,154.92,1394.28,,Debit
+TXN-1704,11/12/2023,West,Furniture ,-6,252.87,1264.35,user_704@company.com,Cash
+TXN-1705,12/09/2023,North,Furniture,5,216.35,1081.75,user_705@company.com,Cash
+TXN-1706,2023-01-27,East,Furniture ,1,211.16,211.16,user_706@company.com,Debit
+TXN-1707,2023-08-30, West,Electronics,5,123.36,616.8,user_707@company.com,Cash
+TXN-1708,2023-03-12, north,OFFICE SUPPLIES,-6,76.82,614.56,invalid_email_at_gmail.com,CREDIT CARD
+TXN-1709,2023/03/22 00:00,,Electronics,6,106.38,638.28,user_709@company.com,CREDIT CARD
+TXN-1710,2023/09/01 00:00,West,electronics,2,37.11,385.24,user_710@company.com,Cash
+TXN-1711,28-May-2023,South,Office-Supplies,5,107.08,535.4,user_711@company.com,Credit Card
+TXN-1712,2023-01-31,West,Furniture ,5,14.51,355.73,user_712@company.com,cc
+TXN-1713,2023-04-29,EAST ,Office Supplies,4,317.36,1269.44,user_713@company.com,Paypal
+TXN-1714,2023/03/31 00:00,South,electronics,6,165.02,990.12,user_714@company.com,PayPal
+TXN-1715,2023-04-01,West,Electronics,5,486.84,2434.2,user_715@company.com,
+TXN-1716,2023/07/23 00:00,South ,Furniture ,6,104.92,629.52,user_716@company.com,
+TXN-1717,2023-05-29,North,Office-Supplies,5,179.46,897.3,user_717@company.com,PayPal
+TXN-1718,,EAST ,Furniture,4,185.34,741.36,user_718@company.com,
+TXN-1719,24-Feb-2023,EAST ,Office-Supplies,7,14.14,,user_719@company.com,
+TXN-1720,2023/11/25 00:00,EAST ,electronics,5,421.21,2106.05,user_720@company.com,CREDIT CARD
+TXN-1721,2023/03/10 00:00,East,Office Supplies,7,,179.76,user_721@company.com,CASH
+TXN-1722,27-Feb-2023,West,OFFICE SUPPLIES,6,470.69,2824.14,user_722@company.com,cc
+TXN-1723,23-Aug-2023,North,electronics,4,447.12,1788.48,user_723@company.com,Paypal
+TXN-1724,08-Jan-2023,North,Elec.,8,272.41,2179.28,user_724@company.com,cc
+TXN-1725,10/18/2023,South ,Furniture,9999,276.36,1105.44,user_725@company.com,cc
+TXN-1726,2023/11/24 00:00,South,OFFICE SUPPLIES,3,$250.00,991.05,user_726@company.com,CASH
+TXN-1727,21-Sep-2023,,Electronics,5,199.65,998.25,user_727@company.com,PayPal
+TXN-1728,31/11/2023, West,Electronics,-1,327.14,3271.4,user_728@company.com,CREDIT CARD
+TXN-1729,04/05/2023,South,Furniture,6,31.94,191.64,invalid_email_at_gmail.com,Cash
+TXN-1730,2023-05-08,East,Furniture ,4,36.48,564.4,user_730@company.com,
+TXN-1731,2023/05/01 00:00,,Office Supplies,3,234.04,702.12,user_731@company.com,Cash
+TXN-1732,18-Jun-2023,West,OFFICE SUPPLIES,3,,837.93,user_732@company.com,CASH
+TXN-1733,2023-10-21,,Office-Supplies,5,445.03,2225.15,user_733@company.com,CREDIT CARD
+TXN-1734,07/04/2023,South,Elec.,2,61.28,122.56,user_734@company.com,CASH
+TXN-1735,2023-02-30,South,Electronics,6,413.1,2478.6,user_735@company.com,cc
+TXN-1736,06/07/2023,South ,Office Supplies,9999,112.92,225.84,user_736@company.com,PayPal
+TXN-1737,15-Sep-2023, West,Office Supplies,5,203.1,1015.5,user_737@company.com,cc
+TXN-1738,24-Nov-2023,NORTH,Office Supplies,2,165.14,330.28,user_738@company.com,Cash
+TXN-1739,04/24/2023, north,Furniture ,6,206.08,1236.48,user_739@company.com,Paypal
+TXN-1740,09/02/2023,NORTH,Furniture,3,83.74,251.22,user_740@company.com,Debit
+TXN-1741,07-Nov-2023,NORTH,Furniture ,5,256.75,1700.31,user_741@company.com,Credit Card
+TXN-1742,2023/10/09 00:00,West,Electronics,2,402.8,805.6,user_742@company.com,Paypal
+TXN-1743,12/07/2023, north,Furniture ,6,226.35,1358.1,user_743@company.com,
+TXN-1744,2023-12-15,EAST ,Office-Supplies,6,250.4,1502.4,user_744@company.com,CREDIT CARD
+TXN-1745,28-Sep-2023,North,Electronics,7,425.9,2981.3,user_745@company.com,PayPal
+TXN-1746,2023-02-30,EAST ,Furniture ,6,355.97,2135.82,user_746@company.com,Credit Card
+TXN-1747,02/01/2023,South ,Furniture,6,250.32,1501.92,invalid_email_at_gmail.com,Debit
+TXN-1748,03/18/2023,West,Elec.,,-187.29,905.95,user_748@company.com,Paypal
+TXN-1749,2023/09/24 00:00,South ,Office Supplies,4,443.61,1774.44,user_749@company.com,Paypal
+TXN-1750,2023/04/16 00:00,NORTH,Office-Supplies,7,292.74,2447.79,user_750@company.com,Paypal
+TXN-1751,31/11/2023,NORTH,Elec.,,118.36,591.8,,Paypal
+TXN-1752,2023/01/29 00:00,,electronics,5,141.87,807.87,user_752@company.com,Debit
+TXN-1753,2023/08/01 00:00,South ,Office-Supplies,8,403.54,3228.32,user_753@company.com,Paypal
+TXN-1754,2023/10/14 00:00,North,Furniture,4,31.63,126.52,,CREDIT CARD
+TXN-1755,2023-06-07,East,Office-Supplies,2,496.13,1095.77,user_755@company.com,Credit Card
+TXN-1756,01/02/2023, West,Furniture,3,73.87,221.61,user_756@company.com,PayPal
+TXN-1757,2023/01/24 00:00,NORTH,Elec.,4,400.07,1950.69,user_757@company.com,Paypal
+TXN-1758,2023-02-02,North,Office-Supplies,6,203.44,1220.64,user_758@company.com,Credit Card
+TXN-1759,2023/02/05 00:00,NORTH,Furniture ,9,251.19,2260.71,user_759@company.com,Debit
+TXN-1760,,East,Office Supplies,3,441.52,1324.56,user_760@company.com,Debit
+TXN-1761,2023/03/11 00:00,,OFFICE SUPPLIES,-1,212.33,1061.65,user_761@company.com,CASH
+TXN-1762,2023/07/15 00:00,North,Elec.,3,273.37,820.11,user_762@company.com,
+TXN-1763,2023/07/13 00:00,,Furniture,2,34.16,68.32,user_763@company.com,
+TXN-1764,31/11/2023,South ,Elec.,4,11.15,44.6,user_764@company.com,Paypal
+TXN-1765,10/04/2023, West,Furniture,9,129.95,1600.19,user_765@company.com,CASH
+TXN-1766,2023-06-28,,Elec.,4,343.49,1373.96,user_766@company.com,CREDIT CARD
+TXN-1767,2023/10/03 00:00,West,Furniture ,5,69.42,347.1,user_767@company.com,
+TXN-1768,2023-04-25,East,Elec.,8,65.74,525.92,user_768@company.com,CASH
+TXN-1769,2023/06/02 00:00, north,Office-Supplies,5 pcs,211.37,1690.96,,CASH
+TXN-1770,2023/10/06 00:00,East,Elec.,5,327.44,1637.2,user_770@company.com,PayPal
+TXN-1771,04/28/2023,West,Elec.,3,358.92,1076.76,user_771@company.com,Cash
+TXN-1772,21-Mar-2023,South,Office Supplies,-7,97.44,876.96,user_772@company.com,PayPal
+TXN-1773,2023-02-27,NORTH,electronics,2,49,98,user_773@company.com,CASH
+TXN-1774,2023-08-03,West,electronics,8,470.79,4076.48,user_774@company.com,Cash
+TXN-1775,2023-02-04, north,Elec.,7,137.73,1111.76,user_775@company.com,Cash
+TXN-1776,2023-08-17,West,Office Supplies,6,428.14,,user_776@company.com,Paypal
+TXN-1777,2023/01/23 00:00,NORTH,Elec.,9,433.11,,user_777@company.com,Cash
+TXN-1778,10/04/2023,EAST ,Electronics,3,388.54,1165.62,user_778@company.com,
+TXN-1779,01/29/2023,West,Office Supplies,6,92.73,556.38,user_at_company,Cash
+TXN-1780,05/29/2023,West,Office-Supplies,7,412.68,2888.76,user_780@company.com,cc
+TXN-1781,22-Oct-2023,EAST ,Office-Supplies,7,386.93,2854.82,user_781@company.com,CREDIT CARD
+TXN-1782,11-Dec-2023, north,Furniture ,5,302.39,1511.95,user_782@company.com,Cash
+TXN-1783,03/15/2023,East,OFFICE SUPPLIES,5,175.23,876.15,user_783@company.com,Paypal
+TXN-1784,2023-05-21,South,Furniture ,1,138.63,138.63,user_784@company.com,
+TXN-1785,10/30/2023,South,Elec.,7,69.73,488.11,user_785@company.com,CREDIT CARD
+TXN-1786,2023/08/07 00:00,East,Furniture,4,259.78,1039.12,user_786@company.com,cc
+TXN-1787,,East,electronics,7,296.78,2077.46,user_787@company.com,
+TXN-1788,2023/11/26 00:00,East,Elec.,5,186.08,930.4,user_788@company.com,Debit
+TXN-1097,2023/06/13 00:00,South ,Elec.,5,-63.62,1214.65,user_789@company.com,
+TXN-1790,2023/06/03 00:00,South,Electronics,,188.12,564.36,user_790@company.com,Cash
+TXN-1791,2023/10/03 00:00,,Furniture ,5,324.09,1620.45,user_791@company.com,cc
+TXN-1792,26-Apr-2023,West,Furniture,9999,451.62,2258.1,user_792@company.com,Paypal
+TXN-1793,2023/03/15 00:00, West,Furniture,4,90.32,361.28,user_793@company.com,Cash
+TXN-1794,2023/10/15 00:00,West,Furniture,5 pcs,196.89,590.67,user_794@company.com,
+TXN-1795,10/13/2023,North,Electronics,-6,79.03,237.09,user_795@company.com,Paypal
+TXN-1796,05/11/2023, north,Office Supplies,5,316.22,1581.1,user_796@company.com,Debit
+TXN-1797,2023/02/10 00:00,East,electronics,10,367.15,3671.5,user_797@company.com,PayPal
+TXN-1798,02/17/2023, West,OFFICE SUPPLIES,2,466.64,933.28,user_798@company.com,Credit Card
+TXN-1799,,South,Elec.,5,146.65,,user_799@company.com,Debit
+TXN-1800,2023-11-06,,OFFICE SUPPLIES,3,475.6,1426.8,user_800@company.com,Debit
+TXN-1801,04/07/2023,,Office Supplies,9999,41,361.65,user_801@company.com,Debit
+TXN-1802,20-Jun-2023,South,Elec.,,305.48,1832.88,user_802@company.com,CASH
+TXN-1803,01/08/2023,North,Office-Supplies,3,38,114,invalid_email_at_gmail.com,cc
+TXN-1045,2023/03/02 00:00,East,OFFICE SUPPLIES,4,447.95,1791.8,user_804@company.com,CREDIT CARD
+TXN-1805,12/23/2023,EAST ,OFFICE SUPPLIES,4,269.61,1078.44,user_805@company.com,Credit Card
+TXN-1806,03-May-2023, north,Elec.,5,337.98,1689.9,user_806@company.com,
+TXN-1807,2023/07/14 00:00,EAST ,Elec.,8,417.47,3339.76,user_807@company.com,Debit
+TXN-1808,03-Jul-2023,South ,Furniture,5,$250.00,418.25,user_808@company.com,
+TXN-1809,2023/09/20 00:00,West,Furniture,6,28.91,173.46,user_809@company.com,Credit Card
+TXN-1810,29-Aug-2023,South ,Electronics,3,440.65,1321.95,,Cash
+TXN-1811,09-Jul-2023,North,Office-Supplies,4,164.32,,user_811@company.com,Debit
+TXN-1812,10/16/2023,West,Electronics,5,73.2,794.48,,CREDIT CARD
+TXN-1813,09-Jan-2023,East,Furniture ,6,239.55,1437.3,user_813@company.com,cc
+TXN-1814,2023/10/27 00:00,West,Office-Supplies,7,303.17,2122.19,user_814@company.com,Cash
+TXN-1815,11-Apr-2023,West,Furniture,,25.18,125.9,invalid_email_at_gmail.com,cc
+TXN-1816,10/19/2023, West,Furniture,,144.7,289.4,user_816@company.com,PayPal
+TXN-1817,02-Dec-2023, West,Furniture,6,26.07,156.42,user_817@company.com,PayPal
+TXN-1818,2023/09/08 00:00,North,electronics,4,215.96,863.84,user_818@company.com,Credit Card
+TXN-1819,06/30/2023,South ,Elec.,2,448.6,897.2,user_819@company.com,Debit
+TXN-1820,2023/10/07 00:00,South,OFFICE SUPPLIES,4,491.5,1966,user_820@company.com,CASH
+TXN-1821,2023-10-05,East,OFFICE SUPPLIES,2,322.15,758.82,user_821@company.com,CREDIT CARD
+TXN-1822,2023-02-08,West,Office Supplies,3,89.2,267.6,user_822@company.com,CASH
+TXN-1823,07/31/2023, north,OFFICE SUPPLIES,4,453.87,1815.48,user_823@company.com,Paypal
+TXN-1824,2023-04-29, north,Furniture,7,$250.00,1840.72,user_824@company.com,Debit
+TXN-1825,01/05/2023,NORTH,Office-Supplies,5 pcs,85.34,426.7,user_825@company.com,PayPal
+TXN-1826,2023-07-11,West,Office-Supplies,5,461.65,2308.25,user_826@company.com,
+TXN-1827,2023/12/08 00:00,West,Electronics,7,381.16,3156.96,user_827@company.com,PayPal
+TXN-1828,2023-01-09,North,Office-Supplies,9,368.54,3316.86,user_828@company.com,Cash
+TXN-1829,2023-07-30, north,Office Supplies,7,357.5,2502.5,user_829@company.com,Paypal
+TXN-1830,,South,Office-Supplies,6,108.17,649.02,user_830@company.com,
+TXN-1831,02-Oct-2023,South,Electronics,6,113.39,680.34,user_831@company.com,CASH
+TXN-1832,,EAST ,electronics,9,347.26,3125.34,user_832@company.com,CREDIT CARD
+TXN-1833,2023/12/12 00:00, north,OFFICE SUPPLIES,2,117.66,235.32,user_833@company.com,
+TXN-1834,2023-04-02,South,OFFICE SUPPLIES,3,224.95,674.85,user_834@company.com,Cash
+TXN-1835,09/26/2023,West,Electronics,9,393.18,3538.62,user_835@company.com,Credit Card
+TXN-1836,14-Nov-2023,EAST ,Furniture,3,394.14,1182.42,user_836@company.com,Credit Card
+TXN-1837,2023/05/17 00:00, north,Office-Supplies,8,,1856.8,user_837@company.com,Cash
+TXN-1838,2023-02-30,NORTH,Electronics,5,398.17,1990.85,user_838@company.com,cc
+TXN-1839,08/24/2023,North,Office-Supplies,4,-154.14,1683.68,user_839@company.com,cc
+TXN-1840,26-Apr-2023, West,Electronics,9,330.84,2977.56,user_840@company.com,cc
+TXN-1841,2023-02-11,East,Furniture,2,121.93,243.86,user_841@company.com,
+TXN-1842,31/11/2023,North,Furniture ,5,144.27,721.35,user_842@company.com,CASH
+TXN-1843,2023/10/10 00:00, north,OFFICE SUPPLIES,10,164.27,,user_843@company.com,CREDIT CARD
+TXN-1844,, north,Office-Supplies,5,67.23,336.15,user_844@company.com,Paypal
+TXN-1845,,North,Furniture ,4,143.85,575.4,user_845@company.com,Paypal
+TXN-1846,2023/09/13 00:00,NORTH,Furniture ,7,112.66,788.62,user_846@company.com,CREDIT CARD
+TXN-1847,2023-06-19,South ,OFFICE SUPPLIES,3,233.11,699.33,user_847@company.com,CREDIT CARD
+TXN-1848,01/22/2023,West,Elec.,6,455.13,2730.78,invalid_email_at_gmail.com,Credit Card
+TXN-1849,2023/12/21 00:00, north,Office-Supplies,3,61.2,183.6,user_849@company.com,Debit
+TXN-1850,08-Feb-2023,,Furniture ,3,362.93,1088.79,user_850@company.com,cc
+TXN-1851,2023-10-16,South,Electronics,4,346.77,1387.08,user_851@company.com,Cash
+TXN-1852,2023-06-11,South ,Elec.,1,-180.34,130.7,user_852@company.com,cc
+TXN-1853,10/28/2023,EAST ,OFFICE SUPPLIES,2,462.06,1279.27,user_853@company.com,cc
+TXN-1854,2023/12/31 00:00,EAST ,OFFICE SUPPLIES,4,288.55,1154.2,user_854@company.com,CASH
+TXN-1855,06/03/2023, West,electronics,5,188.23,941.15,user_855@company.com,CASH
+TXN-1856,2023/10/18 00:00,EAST ,electronics,8,380.7,3045.6,user_856@company.com,CASH
+TXN-1857,04-Oct-2023,EAST ,Elec.,9999,136.11,952.77,user_857@company.com,CASH
+TXN-1858,2023-03-13,East,Elec.,7,349.82,2448.74,user_858@company.com,Debit
+TXN-1859,2023-06-27,North,Office-Supplies,2,29.46,143.35,user_859@company.com,CREDIT CARD
+TXN-1860,31/11/2023,EAST ,Office-Supplies,6,421.31,2527.86,user_860@company.com,Cash
+TXN-1861,08-Feb-2023, north,Office Supplies,8,229.6,1836.8,user_861@company.com,CREDIT CARD
+TXN-1862,2023/11/11 00:00,West,OFFICE SUPPLIES,6,321.98,1931.88,invalid_email_at_gmail.com,cc
+TXN-1863,2023-06-17,North,Electronics,4,118.41,473.64,user_863@company.com,PayPal
+TXN-1864,2023/08/19 00:00,,Elec.,4,341.77,1367.08,user_864@company.com,Cash
+TXN-1865,2023/10/11 00:00, north,OFFICE SUPPLIES,4,388.4,1553.6,user_865@company.com,CREDIT CARD
+TXN-1866,2023/12/15 00:00,,Furniture,1,241.87,241.87,user_866@company.com,CASH
+TXN-1867,31/11/2023,North,OFFICE SUPPLIES,6,312.69,1876.14,invalid_email_at_gmail.com,PayPal
+TXN-1868,2023-05-07, north,electronics,8,233.6,1868.8,user_868@company.com,Debit
+TXN-1869,31/11/2023,East,Furniture ,7,448.1,3136.7,user_869@company.com,cc
+TXN-1870,12/31/2023,West,Office Supplies,7,253.96,1777.72,,CREDIT CARD
+TXN-1871,12-Jun-2023, north,Elec.,-7,422.49,2778.62,,PayPal
+TXN-1872,03-Jan-2023,South ,electronics,6,402.66,2415.96,user_872@company.com,CASH
+TXN-1873,2023-05-19,South ,electronics,4,211.15,844.6,user_873@company.com,Paypal
+TXN-1874,2023/04/06 00:00,,electronics,3,122.74,368.22,user_874@company.com,Paypal
+TXN-1875,2023/10/12 00:00, north,OFFICE SUPPLIES,6,208.98,1253.88,user_875@company.com,Cash
+TXN-1876,15-Feb-2023,South ,Office Supplies,3,414.85,1244.55,user_876@company.com,cc
+TXN-1877,02-Nov-2023, West,electronics,10,121.54,1515.9,user_877@company.com,Cash
+TXN-1878,07-Jan-2023,EAST ,Office-Supplies,5,266.97,1334.85,user_878@company.com,Debit
+TXN-1879,02/13/2023,EAST ,Elec.,6,404.99,2429.94,user_879@company.com,cc
+TXN-1880,2023/03/28 00:00,North,Office-Supplies,6,183.2,1099.2,user_880@company.com,
+TXN-1881,18-May-2023, West,Office-Supplies,4,324.68,,user_881@company.com,PayPal
+TXN-1882,2023-03-16,NORTH,Electronics,6,$250.00,,user_882@company.com,Credit Card
+TXN-1883,2023/05/22 00:00,West,Elec.,5,63.55,317.75,user_883@company.com,Credit Card
+TXN-1884,09-Feb-2023,South,Office Supplies,3,399.25,1197.75,user_at_company,
+TXN-1885,2023/05/07 00:00,NORTH,Elec.,2,58.49,116.98,user_885@company.com,Credit Card
+TXN-1886,2023/04/11 00:00,EAST ,Elec.,3,142.98,428.94,user_886@company.com,Cash
+TXN-1887,2023-06-05,West,Elec.,5 pcs,429,858,user_887@company.com,cc
+TXN-1888,2023/06/20 00:00,South ,Elec.,8,179.77,1438.16,user_888@company.com,CREDIT CARD
+TXN-1889,2023/06/18 00:00,NORTH,Electronics,7,486.79,3407.53,user_889@company.com,Credit Card
+TXN-1890,11/30/2023,South ,Office-Supplies,4,490.07,1960.28,user_890@company.com,
+TXN-1891,11/05/2023,East,Furniture ,3,141.46,424.38,user_891@company.com,Credit Card
+TXN-1892,2023/04/01 00:00,North,Furniture ,3,30.08,90.24,user_at_company,Credit Card
+TXN-1893,2023/05/30 00:00,West,OFFICE SUPPLIES,6,355.48,2132.88,user_893@company.com,Cash
+TXN-1894,05-May-2023,West,Furniture ,9999,-156.31,1154.9,user_894@company.com,CASH
+TXN-1895,21-Jul-2023,NORTH,Elec.,1,59.37,59.37,user_895@company.com,PayPal
+TXN-1896,10/16/2023, north,electronics,8,-149.49,2853.52,invalid_email_at_gmail.com,Credit Card
+TXN-1897,10/07/2023,North,Elec.,9,25.28,227.52,user_897@company.com,Cash
+TXN-1898,2023-10-09,North,Furniture,4,436.4,1745.6,user_898@company.com,cc
+TXN-1899,08/25/2023,,Electronics,7,77.94,545.58,user_899@company.com,CREDIT CARD
+TXN-1900,2023-05-30,,Furniture ,3,72.38,,user_900@company.com,Paypal
+TXN-1901,2023/07/29 00:00,EAST ,Electronics,7,96.08,,user_901@company.com,Debit
+TXN-1902,06/05/2023,West,OFFICE SUPPLIES,5,480.53,2402.65,user_902@company.com,CREDIT CARD
+TXN-1903,2023/03/20 00:00,West,OFFICE SUPPLIES,6,349.65,2097.9,,
+TXN-1904,2023/02/07 00:00, north,OFFICE SUPPLIES,8,402.67,3672.46,user_904@company.com,Paypal
+TXN-1905,2023/09/03 00:00,South ,Electronics,2,204.84,409.68,user_905@company.com,Cash
+TXN-1906,2023/12/21 00:00,South,OFFICE SUPPLIES,4,174.79,904.47,user_906@company.com,cc
+TXN-1907,2023-07-04,East,Furniture,9,124.9,1124.1,user_907@company.com,CREDIT CARD
+TXN-1908,08-May-2023,South,Furniture,4,245.52,982.08,user_908@company.com,Cash
+TXN-1909,2023-11-10,EAST ,OFFICE SUPPLIES,4,280.4,1121.6,user_909@company.com,CREDIT CARD
+TXN-1910,2023/11/27 00:00,West,OFFICE SUPPLIES,3,319.57,958.71,user_910@company.com,Debit
+TXN-1911,2023/06/19 00:00,NORTH,Office-Supplies,4,135.99,543.96,user_911@company.com,CREDIT CARD
+TXN-1912,20-Feb-2023,NORTH,OFFICE SUPPLIES,4,474.84,1899.36,user_912@company.com,
+TXN-1913,09/23/2023,NORTH,electronics,-9,93.18,559.08,user_913@company.com,CREDIT CARD
+TXN-1914,2023/07/20 00:00,South,Electronics,7,-14.38,3569.4,user_914@company.com,Debit
+TXN-1915,10/29/2023,,Furniture,3,17.28,51.84,user_915@company.com,Credit Card
+TXN-1916,2023/01/13 00:00,South ,Furniture ,6,245.75,1671.25,user_916@company.com,Credit Card
+TXN-1917,2023-08-01,South,Furniture,8,173.35,1386.8,user_917@company.com,
+TXN-1918,14-Mar-2023, north,Electronics,7,230.07,1610.49,user_918@company.com,cc
+TXN-1919,08/22/2023,NORTH,Elec.,3,289.63,868.89,user_919@company.com,PayPal
+TXN-1920,2023/06/28 00:00,,Elec.,4,223.44,893.76,user_920@company.com,PayPal
+TXN-1921,31/11/2023,North,Electronics,6,213.27,1279.62,user_921@company.com,cc
+TXN-1922,20-Aug-2023,West,Office Supplies,8,369.03,2952.24,user_922@company.com,Cash
+TXN-1923,2023-02-30, West,Electronics,3,346.08,1038.24,user_923@company.com,CREDIT CARD
+TXN-1924,,West,Elec.,4,418.3,1673.2,invalid_email_at_gmail.com,
+TXN-1925,12-Jan-2023, north,Electronics,3,132.48,397.44,user_925@company.com,CREDIT CARD
+TXN-1926,12/13/2023,South ,Furniture ,8,308.67,2469.36,user_926@company.com,cc
+TXN-1927,05/05/2023, north,Office Supplies,1,296.75,296.75,user_927@company.com,Debit
+TXN-1928,2023/06/19 00:00,South ,electronics,3,,573.51,user_928@company.com,Paypal
+TXN-1929,2023/04/29 00:00, north,Electronics,9999,248.17,1737.19,user_929@company.com,CREDIT CARD
+TXN-1930,2023/04/06 00:00,South,electronics,5,163.75,818.75,user_930@company.com,Cash
+TXN-1931,11/11/2023,,Office-Supplies,9,79.5,,user_931@company.com,Debit
+TXN-1932,2023/08/08 00:00, West,Elec.,5,114.76,573.8,invalid_email_at_gmail.com,
+TXN-1933,,East,Elec.,4,61.7,246.8,user_933@company.com,CASH
+TXN-1934,2023-05-23,East,Furniture ,5,344.7,1723.5,user_at_company,Debit
+TXN-1935,10/02/2023,NORTH,Elec.,7,-72.49,2336.32,user_935@company.com,cc
+TXN-1936,2023/04/11 00:00,South,OFFICE SUPPLIES,3,475.8,1427.4,user_936@company.com,
+TXN-1937,2023/12/10 00:00, north,Office Supplies,6,367.54,2205.24,user_937@company.com,cc
+TXN-1938,24-Nov-2023,South ,Electronics,7,35.5,248.5,user_938@company.com,Cash
+TXN-1939,2023/11/09 00:00,,electronics,4,443.28,1773.12,user_939@company.com,Paypal
+TXN-1940,28-Jun-2023, north,Furniture ,4,432.71,1730.84,user_940@company.com,Cash
+TXN-1941,11/13/2023,South,Office Supplies,4,227.23,908.92,user_941@company.com,CREDIT CARD
+TXN-1942,28-Dec-2023,East,Office Supplies,3,297.07,891.21,user_942@company.com,Paypal
+TXN-1943,2023-10-30, West,Office-Supplies,4,488.28,1953.12,invalid_email_at_gmail.com,Debit
+TXN-1944,2023-06-10, West,electronics,2,270.83,1039.96,user_944@company.com,Paypal
+TXN-1945,03/01/2023,East,Office-Supplies,7,453.61,3175.27,user_945@company.com,CASH
+TXN-1946,2023/03/14 00:00,,electronics,6,50.69,304.14,user_946@company.com,Credit Card
+TXN-1947,2023/03/12 00:00,South ,Furniture ,7,103.62,725.34,user_947@company.com,Cash
+TXN-1948,09/07/2023,,OFFICE SUPPLIES,5,$250.00,1559.73,user_948@company.com,Credit Card
+TXN-1949,08-Sep-2023,NORTH,Elec.,,296.53,1387.7,user_949@company.com,Debit
+TXN-1950,2023/06/11 00:00,,electronics,5,409.95,2460.28,user_950@company.com,cc
+TXN-1951,2023-07-03,,Furniture ,4,494.25,1977,user_951@company.com,
+TXN-1952,2023/04/10 00:00,East,Office Supplies,7,200.54,1403.78,user_952@company.com,cc
+TXN-1953,2023/09/16 00:00,East,Office-Supplies,5,33.23,166.15,invalid_email_at_gmail.com,Cash
+TXN-1954,2023/09/09 00:00,EAST ,Furniture,6,402.57,2415.42,user_954@company.com,
+TXN-1955,2023/08/16 00:00,NORTH,Furniture,9999,$250.00,,user_955@company.com,
+TXN-1956,2023-10-17,North,Electronics,2,107.29,214.58,user_956@company.com,
+TXN-1957,23-Apr-2023,East,electronics,4,252.47,1009.88,user_957@company.com,CASH
+TXN-1958,,South,electronics,4,373.73,1494.92,user_958@company.com,
+TXN-1091,05/28/2023,South,OFFICE SUPPLIES,6,387.5,2325,user_959@company.com,Paypal
+TXN-1960,2023/10/17 00:00,EAST ,Furniture ,11,254.81,2802.91,user_960@company.com,PayPal
+TXN-1961,2023-02-27,South ,Office-Supplies,6,159.56,957.36,user_961@company.com,Cash
+TXN-1962,06-Oct-2023,East,Office Supplies,8,487.13,3897.04,user_962@company.com,CREDIT CARD
+TXN-1963,2023/01/22 00:00,NORTH,Furniture ,5,335.05,1675.25,user_963@company.com,Debit
+TXN-1075,2023-08-06,East,Office Supplies,3,210.04,630.12,user_964@company.com,Paypal
+TXN-1089,12/01/2023, West,Elec.,5,147.43,1103.65,invalid_email_at_gmail.com,PayPal
+TXN-1966,2023/01/17 00:00, West,OFFICE SUPPLIES,1,368.24,368.24,user_966@company.com,CASH
+TXN-1967,2023/02/14 00:00, West,OFFICE SUPPLIES,8,128.67,1029.36,user_967@company.com,CASH
+TXN-1968,03/02/2023,East,OFFICE SUPPLIES,6,94.14,564.84,user_968@company.com,CASH
+TXN-1969,29-Oct-2023,South ,Elec.,4,269.62,1078.48,user_969@company.com,CASH
+TXN-1970,2023/11/09 00:00, West,Furniture,7,152.09,1064.63,user_970@company.com,cc
+TXN-1971,03/13/2023,West,Furniture ,1,318.16,318.16,invalid_email_at_gmail.com,Debit
+TXN-1972,31-Jan-2023, north,Furniture,7,,,user_972@company.com,Credit Card
+TXN-1973,11/02/2023,NORTH,Electronics,3,330.92,992.76,user_973@company.com,Debit
+TXN-1974,27-Dec-2023,,electronics,9,148.82,1339.38,user_974@company.com,cc
+TXN-1975,2023-05-17, north,Electronics,4,10.12,40.48,user_975@company.com,Cash
+TXN-1976,2023-07-30,South ,OFFICE SUPPLIES,2,72.2,144.4,user_976@company.com,
+TXN-1977,12/02/2023,NORTH,electronics,4,467.47,1869.88,user_977@company.com,Debit
+TXN-1978,03/09/2023,West,Furniture,6,435,2610,user_978@company.com,CASH
+TXN-1979,06/14/2023,South,Office-Supplies,2,124.47,248.94,user_979@company.com,PayPal
+TXN-1980,2023/12/13 00:00,South ,Office-Supplies,1,391.4,391.4,,Debit
+TXN-1981,23-Oct-2023, north,Electronics,7,308.2,2157.4,user_981@company.com,PayPal
+TXN-1982,2023/07/12 00:00, north,Office Supplies,7,485.74,3400.18,user_982@company.com,Credit Card
+TXN-1983,2023-02-30,North,Office Supplies,6,193.07,,user_983@company.com,
+TXN-1984,2023/02/17 00:00,West,Furniture,8,343.92,2751.36,user_984@company.com,Credit Card
+TXN-1985,23-May-2023,North,Electronics,7,41.13,287.91,user_985@company.com,Paypal
+TXN-1986,07-Sep-2023,,Furniture,5,204.16,1020.8,user_986@company.com,cc
+TXN-1987,2023/02/17 00:00,,Furniture ,5 pcs,482.27,2893.62,user_987@company.com,PayPal
+TXN-1988,24-Dec-2023,EAST ,Furniture ,6,274.1,1786.2,user_988@company.com,
+TXN-1989,2023/10/01 00:00,,electronics,7,151.06,1057.42,user_989@company.com,CREDIT CARD
+TXN-1990,08/08/2023,South,Furniture ,6,68.93,413.58,user_990@company.com,Cash
+TXN-1991,15-Jun-2023,North,Furniture ,3,354.73,1064.19,user_991@company.com,Credit Card
+TXN-1992,10/23/2023,West,Office Supplies,3,,,user_992@company.com,
+TXN-1993,06-Sep-2023,South ,Electronics,1,,193.23,user_993@company.com,Credit Card
+TXN-1994,2023-01-25,West,electronics,5,475.96,2379.8,user_994@company.com,Credit Card
+TXN-1995,31/11/2023,West,Office Supplies,3,20.88,62.64,,PayPal
+TXN-1996,2023-08-24, West,Office Supplies,9,158.82,1429.38,user_996@company.com,CASH
+TXN-1997,2023/03/22 00:00,NORTH,Office-Supplies,8,461.32,3690.56,user_997@company.com,Paypal
+TXN-1998,08/08/2023,East,Electronics,4,167.26,669.04,user_998@company.com,Cash
+TXN-1999,09-Mar-2023,EAST ,Elec.,2,133.6,267.2,user_999@company.com,
+TXN-2000,2023-05-21,South,Furniture,3,271.77,815.31,user_1000@company.com,Credit Card
+TXN-2001,2023-05-09,,Office Supplies,2,,827.32,user_1001@company.com,CASH
+TXN-2002,11/29/2023,South ,Office Supplies,4,60.54,,user_1002@company.com,
+TXN-2003,,NORTH,OFFICE SUPPLIES,4,472.08,2010.03,user_1003@company.com,
+TXN-2004,12/25/2023, West,OFFICE SUPPLIES,5,399.59,1997.95,user_1004@company.com,CREDIT CARD
+TXN-2005,2023-02-16,West,Electronics,8,98.81,790.48,user_1005@company.com,
+TXN-2006,,West,Elec.,6,358.88,2153.28,user_1006@company.com,Cash
+TXN-2007,03/09/2023, north,OFFICE SUPPLIES,3,198.63,595.89,user_1007@company.com,Credit Card
+TXN-2008,2023-08-16,EAST ,Elec.,5,207.12,1035.6,user_1008@company.com,Paypal
+TXN-2009,,East,OFFICE SUPPLIES,6,393.81,2362.86,user_1009@company.com,cc
+TXN-2010,2023/03/03 00:00,West,Office Supplies,3,481.76,1445.28,user_1010@company.com,Debit
+TXN-2011,2023-09-02,North,OFFICE SUPPLIES,8,72.06,576.48,user_1011@company.com,CREDIT CARD
+TXN-2012,2023-02-15,South,Office-Supplies,8,216.11,,user_1012@company.com,Paypal
+TXN-2013,08-Jul-2023,,Electronics,5,245.66,1549.02,user_1013@company.com,Cash
+TXN-2014,03/10/2023,NORTH,Furniture ,4,194.39,777.56,user_1014@company.com,cc
+TXN-2015,2023-02-30,West,Office Supplies,2,187.96,375.92,user_1015@company.com,Paypal
+TXN-2016,11/09/2023,NORTH,Electronics,6,-195.94,213.66,user_1016@company.com,Debit
+TXN-2017,04/20/2023, West,Furniture,5,345.91,1729.55,user_1017@company.com,Paypal
+TXN-2018,2023/11/12 00:00,NORTH,Office Supplies,6,223.75,1342.5,user_1018@company.com,Credit Card
+TXN-1028,2023-02-14,NORTH,Office Supplies,7,105.45,1212.57,user_1019@company.com,Credit Card
+TXN-2020,2023/03/05 00:00,,electronics,3,409.86,1229.58,user_1020@company.com,CASH
+TXN-2021,08-Aug-2023,,Elec.,9,403.25,3629.25,user_1021@company.com,Paypal
+TXN-2022,07-May-2023,NORTH,Furniture ,2,248.33,496.66,user_1022@company.com,cc
+TXN-2023,08-May-2023, West,Electronics,0,156.24,0,user_1023@company.com,PayPal
+TXN-2024,2023-12-20,East,Office Supplies,6,322.67,1936.02,user_1024@company.com,Credit Card
+TXN-2025,04-Dec-2023,North,Office-Supplies,4,$250.00,604.76,user_1025@company.com,Paypal
+TXN-2026,11/07/2023,South,Elec.,6,125.64,753.84,user_1026@company.com,Cash
+TXN-2027,2023-06-01, West,Office-Supplies,4,367.95,1471.8,user_1027@company.com,CREDIT CARD
+TXN-2028,2023/05/03 00:00,South,Elec.,5,29.76,148.8,user_1028@company.com,CASH
+TXN-2029,2023/05/04 00:00, north,electronics,2,56.44,112.88,user_1029@company.com,Paypal
+TXN-2030,2023-02-06,South ,Furniture ,5,13.33,66.65,user_1030@company.com,Cash
+TXN-2031,06/12/2023,East,Office Supplies,4,84.94,339.76,,CASH
+TXN-2032,2023/10/19 00:00,South,Electronics,-1,43.81,131.43,user_1032@company.com,Credit Card
+TXN-2033,12/16/2023,North,Furniture ,5,497.94,,user_1033@company.com,CREDIT CARD
+TXN-2034,2023-02-07,South,Office-Supplies,3,151.52,,user_1034@company.com,CREDIT CARD
+TXN-2035,08-Jan-2023,West,electronics,3,83.14,249.42,user_1035@company.com,Paypal
+TXN-2036,2023/01/31 00:00,East,OFFICE SUPPLIES,4,128.09,512.36,user_1036@company.com,PayPal
+TXN-2037,2023/11/18 00:00,EAST ,Furniture,8,468.7,3749.6,user_1037@company.com,CASH
+TXN-2038,2023-07-25, West,Office Supplies,5,264.88,1324.4,user_1038@company.com,PayPal
+TXN-2039,10/03/2023, West,OFFICE SUPPLIES,4,$250.00,755.04,user_1039@company.com,Paypal
+TXN-1005,2023-06-08,North,Furniture ,4,437.96,1751.84,user_1040@company.com,PayPal
+TXN-2041,04/15/2023,North,Furniture,4,203.55,814.2,user_1041@company.com,CASH
+TXN-2042,2023-07-20,East,Furniture ,4,174.15,696.6,user_1042@company.com,Credit Card
+TXN-2043,08/12/2023, north,Elec.,7,111.57,780.99,user_1043@company.com,CASH
+TXN-2044,,West,electronics,8,195.12,1560.96,user_1044@company.com,CASH
+TXN-2045,31/11/2023,South ,Office Supplies,7,165.18,1156.26,user_1045@company.com,CASH
+TXN-2046,2023-08-21,South ,Electronics,3,341.88,1025.64,user_1046@company.com,PayPal
+TXN-2047,12/03/2023,,Furniture,6,151.9,911.4,user_1047@company.com,Paypal
+TXN-2048,12/29/2023,West,electronics,6,292.83,1756.98,user_1048@company.com,Debit
+TXN-2049,2023/03/25 00:00,,OFFICE SUPPLIES,4,42.29,169.16,user_1049@company.com,PayPal
+TXN-2050,25-Sep-2023,NORTH,Electronics,6,103.73,622.38,user_1050@company.com,Credit Card
+TXN-2051,06-Mar-2023,EAST ,OFFICE SUPPLIES,9,209.63,,user_1051@company.com,CASH
+TXN-2052,2023-03-02,EAST ,Elec.,6,469.11,2814.66,user_1052@company.com,Credit Card
+TXN-2053,08-Aug-2023,East,Furniture,4,194.85,779.4,user_1053@company.com,Debit
+TXN-2054,2023-05-15,,Office Supplies,6,335.4,2012.4,user_1054@company.com,CREDIT CARD
+TXN-2055,19-Sep-2023, north,OFFICE SUPPLIES,7,,944.93,user_1055@company.com,Paypal
+TXN-2056,,West,Furniture ,4,72.25,289,,cc
+TXN-2057,27-Mar-2023,South ,Office Supplies,3,38.68,116.04,user_1057@company.com,cc
+TXN-2058,2023-02-22,EAST ,Elec.,4,159.65,1123.66,user_1058@company.com,cc
+TXN-2059,2023-09-18,South,electronics,5,87.25,436.25,user_1059@company.com,CREDIT CARD
+TXN-2060,,West,Elec.,3,95.27,285.81,user_1060@company.com,Debit
+TXN-2061,2023-05-06,EAST ,Furniture,5,382.77,1913.85,user_1061@company.com,cc
+TXN-2062,07/16/2023,East,Electronics,3,17.76,53.28,user_1062@company.com,CREDIT CARD
+TXN-2063,2023/01/19 00:00,East,OFFICE SUPPLIES,5,283.33,1416.65,invalid_email_at_gmail.com,
+TXN-2064,2023/05/08 00:00, West,Office-Supplies,5,195.94,979.7,invalid_email_at_gmail.com,Cash
+TXN-2065,13-Jun-2023, West,electronics,5,258.21,1291.05,user_1065@company.com,CREDIT CARD
+TXN-2066,20-Oct-2023,,Electronics,6,285.79,1714.74,user_1066@company.com,PayPal
+TXN-2067,2023-12-11,North,Furniture ,,163.55,981.3,user_1067@company.com,CASH
+TXN-2068,2023-09-22,West,Electronics,6,154.6,927.6,user_1068@company.com,PayPal
+TXN-2069,2023/02/05 00:00,NORTH,electronics,9999,369.37,1846.85,user_at_company,
+TXN-2070,09-Jun-2023, West,Office Supplies,7,436.93,3058.51,user_1070@company.com,PayPal
+TXN-2071,31/11/2023,NORTH,OFFICE SUPPLIES,3,104.36,313.08,user_1071@company.com,PayPal
+TXN-2072,07/08/2023,South,Electronics,5,57.83,289.15,user_1072@company.com,PayPal
+TXN-2073,06/05/2023, north,electronics,7,449.92,3149.44,user_1073@company.com,cc
+TXN-2074,2023/10/30 00:00,West,Furniture ,9999,181.45,362.9,user_1074@company.com,cc
+TXN-2075,04/11/2023,South ,Electronics,8,280.15,2241.2,user_1075@company.com,CASH
+TXN-2076,2023-07-29,South,Furniture ,4,186.18,744.72,user_1076@company.com,Paypal
+TXN-2077,2023-06-27,NORTH,Furniture,2,71.64,143.28,invalid_email_at_gmail.com,cc
+TXN-2078,2023/01/01 00:00,NORTH,Office Supplies,5,298.77,1493.85,user_1078@company.com,
+TXN-2079,2023-06-07,NORTH,Furniture,5,267.32,1756.82,user_1079@company.com,Debit
+TXN-2080,2023/05/02 00:00,East,Furniture,4,109.47,437.88,user_1080@company.com,Paypal
+TXN-2081,01/31/2023,,Furniture ,6,$250.00,1388.52,user_1081@company.com,CREDIT CARD
+TXN-2082,2023-02-17, north,Furniture ,8,400.5,3204,user_1082@company.com,
+TXN-2083,2023/09/24 00:00,South,Office Supplies,4,299.31,1197.24,user_1083@company.com,Credit Card
+TXN-2084,2023/07/10 00:00,EAST ,OFFICE SUPPLIES,3,-40.08,172.47,user_1084@company.com,Debit
+TXN-2085,2023-02-13,East,electronics,6,278.53,1671.18,user_1085@company.com,Debit
+TXN-2086,2023/11/23 00:00, north,Furniture ,4,354.34,1417.36,user_1086@company.com,cc
+TXN-2087,2023-02-30, West,Elec.,2,398.42,796.84,user_1087@company.com,cc
+TXN-2088,08/11/2023, West,Elec.,3,318.27,1394.71,user_1088@company.com,Paypal
+TXN-2089,14-May-2023, West,Furniture ,1,84.8,84.8,user_1089@company.com,Credit Card
+TXN-2090,21-Jul-2023,South,electronics,,357.98,3221.82,user_1090@company.com,CASH
+TXN-2091,05/20/2023,,Electronics,5,341.9,1709.5,user_1091@company.com,CREDIT CARD
+TXN-2092,2023-02-30,NORTH,electronics,3,21.97,65.91,user_1092@company.com,cc
+TXN-2093,2023-10-27,EAST ,Furniture,4,211.76,847.04,user_1093@company.com,cc
+TXN-2094,2023/03/26 00:00,North,Office Supplies,3,173.15,519.45,,Paypal
+TXN-2095,2023-07-28,South,Office Supplies,,-149.25,1352.04,user_1095@company.com,CASH
+TXN-2096,2023/04/17 00:00,North,Furniture ,6,115.91,695.46,user_1096@company.com,Cash
+TXN-2097,2023-05-16,NORTH,Elec.,4,299.53,1198.12,user_1097@company.com,Debit
+TXN-2098,31/11/2023,,Furniture ,2,457.47,914.94,user_1098@company.com,CREDIT CARD
+TXN-2099,2023-06-05,,Furniture,6,400.92,2405.52,user_1099@company.com,Debit
+TXN-2100,06/17/2023,NORTH,Elec.,3,461.51,1384.53,user_1100@company.com,Credit Card
+TXN-2101,31/11/2023,NORTH,electronics,6,$250.00,2936.82,,
+TXN-2102,2023/07/02 00:00,West,Furniture ,2,15.23,30.46,user_1102@company.com,Paypal
+TXN-2103,13-Dec-2023,North,Office Supplies,9999,315.14,2521.12,user_at_company,Paypal
+TXN-2104,2023-03-31,,OFFICE SUPPLIES,3,212.29,636.87,user_1104@company.com,Cash
+TXN-2105,08/20/2023,NORTH,Electronics,6,431.33,2661.42,user_1105@company.com,Credit Card
+TXN-2106,31/11/2023,North,Elec.,4,133.39,533.56,user_1106@company.com,Credit Card
+TXN-2107,2023-03-13,NORTH,Electronics,5,490.7,2453.5,user_1107@company.com,CREDIT CARD
+TXN-2108,,South ,OFFICE SUPPLIES,6,-192.37,1864.32,user_1108@company.com,Cash
+TXN-2109,04/24/2023,NORTH,Electronics,9999,398.83,,user_1109@company.com,PayPal
+TXN-2110,25-Jul-2023,West,electronics,5,51.94,259.7,user_1110@company.com,CREDIT CARD
+TXN-2111,2023-11-27,EAST ,Office-Supplies,7,99.89,699.23,user_1111@company.com,Cash
+TXN-2112,2023-05-13,,Electronics,6,381.62,2289.72,user_1112@company.com,Debit
+TXN-2113,,,electronics,6,20.77,245.64,user_1113@company.com,Paypal
+TXN-2114,2023-02-30,North,Office-Supplies,7,410.27,2871.89,user_1114@company.com,Credit Card
+TXN-2115,08/16/2023,South ,Office-Supplies,4,16.84,67.36,user_1115@company.com,CASH
+TXN-2116,31/11/2023, north,Elec.,3,331.99,995.97,user_1116@company.com,CASH
+TXN-2117,2023-06-19,South,OFFICE SUPPLIES,8,188.9,1511.2,user_1117@company.com,CREDIT CARD
+TXN-2118,, West,Office Supplies,5 pcs,309.63,,user_1118@company.com,PayPal
+TXN-2119,2023/03/28 00:00,,Furniture ,5,351.06,1755.3,user_1119@company.com,
+TXN-2120,2023/07/22 00:00, West,Office Supplies,5,177.81,889.05,user_1120@company.com,cc
+TXN-2121,, West,Furniture,3,62.9,188.7,user_1121@company.com,Paypal
+TXN-2122,30-Mar-2023,NORTH,electronics,9,44.13,397.17,user_1122@company.com,CREDIT CARD
+TXN-2123,06-Apr-2023,South,OFFICE SUPPLIES,8,298.58,2388.64,user_1123@company.com,Paypal
+TXN-2124,2023-03-18,EAST ,Elec.,6,265.12,1590.72,user_1124@company.com,Cash
+TXN-2125,11/12/2023,,electronics,3,373.68,,user_1125@company.com,Debit
+TXN-2126,2023/09/13 00:00,NORTH,OFFICE SUPPLIES,5,259.77,1298.85,user_1126@company.com,Credit Card
+TXN-2127,2023-09-03,,electronics,5 pcs,217,1085,user_1127@company.com,Debit
+TXN-2128,31/11/2023,NORTH,OFFICE SUPPLIES,5,205.06,1025.3,user_1128@company.com,cc
+TXN-2129,08/03/2023,,Furniture ,,22.96,68.88,user_1129@company.com,Paypal
+TXN-2130,09/27/2023,West,OFFICE SUPPLIES,7,174.42,1220.94,user_1130@company.com,
+TXN-2131,2023-10-06,South ,OFFICE SUPPLIES,3,488.25,1464.75,user_1131@company.com,PayPal
+TXN-2132,01-Jan-2024,NORTH,Furniture,0,438.04,0,user_1132@company.com,
+TXN-2133,06-Sep-2023,East,Furniture,6,171.4,1028.4,invalid_email_at_gmail.com,CREDIT CARD
+TXN-1029,15-Sep-2023, West,Elec.,6,298.02,1788.12,user_1134@company.com,CREDIT CARD
+TXN-2135,2023-04-03,,Furniture ,4,425.18,1700.72,user_1135@company.com,
+TXN-2136,2023-04-23,,Office Supplies,5,226.22,1131.1,user_1136@company.com,Cash
+TXN-2137,2023-05-24, north,Office-Supplies,9,-158.55,169.2,user_1137@company.com,Credit Card
+TXN-2138,30-Aug-2023,South,Elec.,5,46.51,232.55,user_1138@company.com,cc
+TXN-2139,04/30/2023,EAST ,Office Supplies,-8,,1040.36,user_1139@company.com,cc
+TXN-2140,12/03/2023,EAST ,Office Supplies,3,485.03,1455.09,user_1140@company.com,CASH
+TXN-2141,01/29/2023,NORTH,OFFICE SUPPLIES,6,349.67,2098.02,user_1141@company.com,
+TXN-2142,18-Jul-2023, north,OFFICE SUPPLIES,2,44.75,89.5,user_1142@company.com,
+TXN-2143,03/30/2023,North,Electronics,6,,616.74,user_1143@company.com,Credit Card
+TXN-2144,12-Jun-2023,South,electronics,6,387.95,2327.7,user_1144@company.com,CREDIT CARD
+TXN-2145,15-Jan-2023,West,OFFICE SUPPLIES,6,422.31,2533.86,user_1145@company.com,Cash
+TXN-2146,10/16/2023,West,electronics,5,-146.77,1563.35,user_1146@company.com,Cash
+TXN-2147,2023/04/07 00:00,EAST ,Office Supplies,,325.77,1192.87,user_1147@company.com,Credit Card
+TXN-2148,2023/03/31 00:00,NORTH,OFFICE SUPPLIES,5 pcs,23.89,95.56,user_1148@company.com,CREDIT CARD
+TXN-2149,,,OFFICE SUPPLIES,4,415.98,1663.92,user_1149@company.com,cc
+TXN-2150,, north,Elec.,5,396.25,1981.25,user_1150@company.com,Paypal
+TXN-2151,2023/01/11 00:00,NORTH,Furniture ,4,136.93,547.72,user_1151@company.com,Credit Card
+TXN-2152,, West,Office Supplies,4,357.25,1429,user_1152@company.com,CASH
+TXN-2153,04/14/2023,,Elec.,5,115.28,576.4,user_1153@company.com,Credit Card
+TXN-2154,01-Apr-2023,,electronics,5,29.76,148.8,user_1154@company.com,Credit Card
+TXN-2155,,North,Office-Supplies,5,108.56,542.8,invalid_email_at_gmail.com,CASH
+TXN-2156,12/27/2023,West,electronics,7,,682.71,user_1156@company.com,cc
+TXN-2157,27-Sep-2023,West,Office Supplies,3,175.5,526.5,user_1157@company.com,Paypal
+TXN-2158,2023/07/11 00:00, north,electronics,2,215.04,430.08,user_1158@company.com,Credit Card
+TXN-2159,22-Jun-2023, north,Furniture ,4,259.18,1036.72,user_1159@company.com,
+TXN-2160,2023/03/22 00:00, West,OFFICE SUPPLIES,4,243.61,974.44,user_1160@company.com,cc
+TXN-2161,07-Sep-2023,NORTH,Office-Supplies,6,142.63,855.78,user_1161@company.com,Credit Card
+TXN-2162,15-Oct-2023,,Office-Supplies,3,24.29,72.87,user_1162@company.com,Debit
+TXN-2163,10/29/2023,West,Furniture,9999,306.5,1532.5,user_1163@company.com,CASH
+TXN-2164,19-Dec-2023,North,Furniture,5,203.91,1019.55,user_1164@company.com,PayPal
+TXN-2165,2023/01/01 00:00,EAST ,Elec.,5,156.35,781.75,user_1165@company.com,CASH
+TXN-2166,2023-10-18,West,OFFICE SUPPLIES,5,$250.00,2174,user_1166@company.com,Debit
+TXN-2167,06/12/2023,EAST ,Office-Supplies,3,375.9,,user_1167@company.com,Paypal
+TXN-2168,2023/02/23 00:00,East,electronics,10,430.31,4303.1,user_1168@company.com,Debit
+TXN-2169,02/09/2023,North,Office Supplies,9999,252.54,1262.7,user_1169@company.com,PayPal
+TXN-2170,06/13/2023,West,Furniture,4,74.16,296.64,user_1170@company.com,Cash
+TXN-2171,15-Feb-2023,EAST ,Office-Supplies,4,351.15,1404.6,user_1171@company.com,Debit
+TXN-2172,05/16/2023,South,Office-Supplies,7,110.98,776.86,user_1172@company.com,Debit
+TXN-2173,04-Feb-2023, West,Office Supplies,3,226.2,,user_1173@company.com,CREDIT CARD
+TXN-2174,2023-02-25,EAST ,Furniture,6,41.85,251.1,user_1174@company.com,Debit
+TXN-2175,,East,Elec.,2,414.4,828.8,user_1175@company.com,
+TXN-2176,08/03/2023,,electronics,4,71.71,286.84,,Cash
+TXN-2177,2023/09/10 00:00,,OFFICE SUPPLIES,4,452.52,1810.08,user_1177@company.com,Paypal
+TXN-2178,2023-07-12, north,electronics,4,433.47,1843.82,user_at_company,CREDIT CARD
+TXN-2179,10/23/2023,EAST ,OFFICE SUPPLIES,-5,237.65,1901.2,user_1179@company.com,PayPal
+TXN-2180,2023-02-07,NORTH,Office Supplies,5,374.74,1873.7,user_1180@company.com,CREDIT CARD
+TXN-2181,13-Jun-2023,South ,electronics,8,313.53,2508.24,user_1181@company.com,CASH
+TXN-2182,07-Feb-2023, West,OFFICE SUPPLIES,5,403.51,2017.55,user_1182@company.com,PayPal
+TXN-2183,07/12/2023,South,Elec.,7,221.58,1551.06,user_1183@company.com,CREDIT CARD
+TXN-2184,2023-10-08, north,Furniture ,8,395.05,3160.4,user_at_company,Cash
+TXN-2185,2023/11/11 00:00,South ,Office-Supplies,3,236.6,709.8,user_1185@company.com,Credit Card
+TXN-2186,08/09/2023,,electronics,4,471.07,1960.72,user_1186@company.com,CASH
+TXN-2187,08/11/2023,West,electronics,5 pcs,248.32,1489.92,user_1187@company.com,PayPal
+TXN-2188,,EAST ,Office-Supplies,4,236.68,946.72,user_1188@company.com,CREDIT CARD
+TXN-2189,2023/04/08 00:00,South ,Office Supplies,4,394.69,1578.76,user_1189@company.com,Credit Card
+TXN-2190,04-Oct-2023,South,OFFICE SUPPLIES,6,412.57,2475.42,user_1190@company.com,Debit
+TXN-2191,06/02/2023,North,Electronics,2,281.7,,user_1191@company.com,CASH
+TXN-2192,31/11/2023,North,electronics,4,$250.00,392.4,user_1192@company.com,
+TXN-2193,2023/10/09 00:00,,Furniture,2,239.2,,user_1193@company.com,Paypal
+TXN-2194,2023-07-04,West,Elec.,8,,3874.88,invalid_email_at_gmail.com,CASH
+TXN-2195,2023/05/31 00:00, north,Electronics,7,378.96,2816.87,user_1195@company.com,CREDIT CARD
+TXN-2196,01/14/2023,West,Elec.,2,407.47,814.94,user_1196@company.com,Cash
+TXN-2197,2023-05-30,North,Elec.,5,26.08,130.4,,Paypal
+TXN-2198,01-Mar-2023,EAST ,OFFICE SUPPLIES,6,239.25,1435.5,user_1198@company.com,CASH
+TXN-2199,2023/08/30 00:00,South,Furniture ,7,326.84,2287.88,user_1199@company.com,CASH
